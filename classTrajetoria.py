@@ -226,20 +226,35 @@ class Trajetoria:
             if index % self._freqMostragem == 0:
                 posicao = ponto.pose.posicao
                 orientacao = ponto.pose.orientacao
+                
+                 # Extrai componentes do quaterniao
+                componentes = np.array([orientacao.q_0, orientacao.q_1, orientacao.q_2, orientacao.q_3])
 
-                # Extrai a matriz de rotação a partir dos quaterniões
-                matrizRotacao = orientacao.RotationMatrix()
+                # Normaliza o quartenião
+                normalizacaoQuarteniao = componentes / np.linalg.norm(componentes)
 
-                # Vetores dos eixos locais (X, Y, Z) após aplicação da matriz de rotação e multiplicados por um fator de escala
-                vetorX = matrizRotacao[:, 0] * 0.1  # Vetor X (vermelho)
-                vetorY = matrizRotacao[:, 1] * 0.1  # Vetor Y (verde)
-                vetorZ = matrizRotacao[:, 2] * 0.1  # Vetor Z (azul)
+                # Validar quartenião
+                if ( np.linalg.norm(normalizacaoQuarteniao), 1.0):
 
-                # Desenha os vetores de orientação no ponto atual
-                eixo.quiver(posicao.x, posicao.y, posicao.z, vetorX[0], vetorX[1], vetorX[2], color='r', normalize=False)
-                eixo.quiver(posicao.x, posicao.y, posicao.z, vetorY[0], vetorY[1], vetorY[2], color='g', normalize=False)
-                eixo.quiver(posicao.x, posicao.y, posicao.z, vetorZ[0], vetorZ[1], vetorZ[2], color='b', normalize=False)
-                countPrint += 1
+                    # Reconstrói a orientação normalizada como um objeto Orientacao
+                    orientacaoNormalizada = Orientacao(*normalizacaoQuarteniao)
+
+                    # Extrai a matriz de rotação a partir do quaternião normalizado
+                    matrizRotacao = orientacaoNormalizada.RotationMatrix()
+
+                    # Extrai a matriz de rotação a partir dos quaterniões
+                    matrizRotacao = orientacao.RotationMatrix()
+
+                    # Vetores dos eixos locais (X, Y, Z) após aplicação da matriz de rotação e multiplicados por um fator de escala
+                    vetorX = matrizRotacao[:, 0] * 0.1  # Vetor X (vermelho)
+                    vetorY = matrizRotacao[:, 1] * 0.1  # Vetor Y (verde)
+                    vetorZ = matrizRotacao[:, 2] * 0.1  # Vetor Z (azul)
+
+                    # Desenha os vetores de orientação no ponto atual
+                    eixo.quiver(posicao.x, posicao.y, posicao.z, vetorX[0], vetorX[1], vetorX[2], color='r', normalize=False)
+                    eixo.quiver(posicao.x, posicao.y, posicao.z, vetorY[0], vetorY[1], vetorY[2], color='g', normalize=False)
+                    eixo.quiver(posicao.x, posicao.y, posicao.z, vetorZ[0], vetorZ[1], vetorZ[2], color='b', normalize=False)
+                    countPrint += 1
 
         print(f"Número de orientações impressas: {countPrint}")
 
