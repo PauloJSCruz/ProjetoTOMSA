@@ -1,0 +1,10216 @@
+header: 
+  seq: 0
+  stamp: 
+    secs: 0
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 1
+  stamp: 
+    secs: 0
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 1.5
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 2
+  stamp: 
+    secs: 0
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 3.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.17364817766693003
+    w: 0.9848077530122081
+---
+header: 
+  seq: 3
+  stamp: 
+    secs: 0
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 4.5
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.3420201433256691
+    w: 0.9396926207859083
+---
+header: 
+  seq: 4
+  stamp: 
+    secs: 1
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 6.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.4999999999999999
+    w: 0.8660254037844388
+---
+header: 
+  seq: 5
+  stamp: 
+    secs: 1
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 7.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.6427876096865391
+    w: 0.7660444431189782
+---
+header: 
+  seq: 6
+  stamp: 
+    secs: 1
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.965513624428793
+    y: 0.99725582054529
+    z: 7.9854472432485
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7071067811865476
+    w: 0.7071067811865476
+---
+header: 
+  seq: 7
+  stamp: 
+    secs: 1
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 1.96020360370977
+    y: 1.997734970763
+    z: 8.97595504467152
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7071067811865476
+    w: 0.7071067811865476
+---
+header: 
+  seq: 8
+  stamp: 
+    secs: 2
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 2.95036449033402
+    y: 2.96728213697531
+    z: 9.980102396291
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7071067811865476
+    w: 0.7071067811865476
+---
+header: 
+  seq: 9
+  stamp: 
+    secs: 2
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 3.98033859563393
+    y: 3.95694104114366
+    z: 10.9935704504954
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7071067811865476
+    w: 0.7071067811865476
+---
+header: 
+  seq: 10
+  stamp: 
+    secs: 2
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 4.954050109274
+    y: 4.97247929627032
+    z: 11.9754576416558
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7071067811865476
+    w: 0.7071067811865476
+---
+header: 
+  seq: 11
+  stamp: 
+    secs: 2
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 5.96772870820081
+    y: 5.96779863890802
+    z: 12.9720414499578
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7071067811865476
+    w: 0.7071067811865476
+---
+header: 
+  seq: 12
+  stamp: 
+    secs: 3
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 6.99354374285933
+    y: 6.98936717872079
+    z: 13.9843649974418
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7071067811865476
+    w: 0.7071067811865476
+---
+header: 
+  seq: 13
+  stamp: 
+    secs: 3
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 7.9933620412162
+    y: 7.96644299492525
+    z: 14.9520428594532
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7071067811865476
+    w: 0.7071067811865476
+---
+header: 
+  seq: 14
+  stamp: 
+    secs: 3
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 8.97098650508819
+    y: 8.96985049134482
+    z: 15.9854187009461
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7071067811865476
+    w: 0.7071067811865476
+---
+header: 
+  seq: 15
+  stamp: 
+    secs: 3
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 9.95259073983691
+    y: 9.96425664739348
+    z: 16.999776354169
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7071067811865476
+    w: 0.7071067811865476
+---
+header: 
+  seq: 16
+  stamp: 
+    secs: 4
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 10.9683294104383
+    y: 10.9711350697063
+    z: 17.9591170559062
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7071067811865476
+    w: 0.7071067811865476
+---
+header: 
+  seq: 17
+  stamp: 
+    secs: 4
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 11.9712170112562
+    y: 11.973653621806
+    z: 18.967793906104
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7071067811865476
+    w: 0.7071067811865476
+---
+header: 
+  seq: 18
+  stamp: 
+    secs: 4
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 12.9727706548678
+    y: 12.9941773542494
+    z: 19.9734768162862
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7071067811865476
+    w: 0.7071067811865476
+---
+header: 
+  seq: 19
+  stamp: 
+    secs: 4
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 13.96279653525
+    y: 13.9938572751238
+    z: 20.9742979494069
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7071067811865476
+    w: 0.7071067811865476
+---
+header: 
+  seq: 20
+  stamp: 
+    secs: 5
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 14.9800458767934
+    y: 14.9752846360948
+    z: 21.9800532667986
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7071067811865476
+    w: 0.7071067811865476
+---
+header: 
+  seq: 21
+  stamp: 
+    secs: 5
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 15.9718413617135
+    y: 15.9717410928446
+    z: 22.9507888982645
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7071067811865476
+    w: 0.7071067811865476
+---
+header: 
+  seq: 22
+  stamp: 
+    secs: 5
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 16.9767664609342
+    y: 16.9553650642047
+    z: 23.9745734991118
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7071067811865476
+    w: 0.7071067811865476
+---
+header: 
+  seq: 23
+  stamp: 
+    secs: 5
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 17.9915489069528
+    y: 17.9749389283962
+    z: 24.9614923219588
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7071067811865476
+    w: 0.7071067811865476
+---
+header: 
+  seq: 24
+  stamp: 
+    secs: 6
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 18.9565392183022
+    y: 18.994393771832
+    z: 25.9898695226959
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7071067811865476
+    w: 0.7071067811865476
+---
+header: 
+  seq: 25
+  stamp: 
+    secs: 6
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9752857085956
+    y: 19.9924337420666
+    z: 26.962993960698
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.7071067811865476
+    w: 0.7071067811865476
+---
+header: 
+  seq: 26
+  stamp: 
+    secs: 6
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9647466290432
+    y: 19.9943937066157
+    z: 27.9625980641711
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.6427876096865391
+    w: 0.7660444431189782
+---
+header: 
+  seq: 27
+  stamp: 
+    secs: 6
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9725869644463
+    y: 19.9967104336031
+    z: 28.9503211690314
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.4999999999999999
+    w: 0.8660254037844388
+---
+header: 
+  seq: 28
+  stamp: 
+    secs: 7
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9766673073134
+    y: 19.9577062873034
+    z: 29.961989808358
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.3420201433256691
+    w: 0.9396926207859083
+---
+header: 
+  seq: 29
+  stamp: 
+    secs: 7
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9712607079488
+    y: 19.9911990018136
+    z: 29.9702344844991
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.17364817766693003
+    w: 0.9848077530122081
+---
+header: 
+  seq: 30
+  stamp: 
+    secs: 7
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9947467990879
+    y: 19.9621756367988
+    z: 29.9926353531917
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 31
+  stamp: 
+    secs: 7
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 20.9860302099234
+    y: 19.9740658890539
+    z: 29.9803153242342
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 32
+  stamp: 
+    secs: 8
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 21.9795618540345
+    y: 19.962689283192
+    z: 29.9795370868683
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 33
+  stamp: 
+    secs: 8
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 22.9906841015368
+    y: 19.9541476455727
+    z: 29.9985212922491
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 34
+  stamp: 
+    secs: 8
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 23.9810104090169
+    y: 19.9562568236773
+    z: 29.9686487761509
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 35
+  stamp: 
+    secs: 8
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 24.9686943141556
+    y: 19.9681715523718
+    z: 29.986078517643
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 36
+  stamp: 
+    secs: 9
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 25.970985751113
+    y: 19.9706997996681
+    z: 29.9615534486673
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 37
+  stamp: 
+    secs: 9
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 26.9595365281762
+    y: 19.9701377669971
+    z: 29.9623058058732
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 38
+  stamp: 
+    secs: 9
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 27.9689335542576
+    y: 19.9956364843403
+    z: 29.9542151246247
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 39
+  stamp: 
+    secs: 9
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 28.9884721730366
+    y: 19.9691965980353
+    z: 29.9625060496017
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 40
+  stamp: 
+    secs: 10
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 29.9589279349033
+    y: 19.9844950770926
+    z: 29.9642188131529
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 41
+  stamp: 
+    secs: 10
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 30.9997185835869
+    y: 19.994548465146
+    z: 29.9712971205461
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 42
+  stamp: 
+    secs: 10
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 31.9730943906675
+    y: 19.9782304080454
+    z: 29.9727940109379
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 43
+  stamp: 
+    secs: 10
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 32.9715357476489
+    y: 19.9971393980141
+    z: 29.9994925451264
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 44
+  stamp: 
+    secs: 11
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 33.9895869867438
+    y: 19.9567025058131
+    z: 29.9989393569595
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 45
+  stamp: 
+    secs: 11
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 34.9903142045932
+    y: 19.9639525830187
+    z: 29.9881869829433
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 46
+  stamp: 
+    secs: 11
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 35.9769897300903
+    y: 19.9876937707401
+    z: 29.992998145243
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 47
+  stamp: 
+    secs: 11
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 36.9577891069592
+    y: 19.9661719934069
+    z: 29.9960888023872
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 48
+  stamp: 
+    secs: 12
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 37.9886840105721
+    y: 19.9601755607296
+    z: 29.986970453869
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 49
+  stamp: 
+    secs: 12
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 38.9528227056583
+    y: 19.9760725074887
+    z: 29.9831206249883
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 50
+  stamp: 
+    secs: 12
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 39.9935765994314
+    y: 19.9811365146259
+    z: 29.9784196231601
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 51
+  stamp: 
+    secs: 12
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 40.9887943561795
+    y: 19.9967529592176
+    z: 29.9818503955865
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 52
+  stamp: 
+    secs: 13
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 41.9660352784569
+    y: 19.9539635592088
+    z: 29.9765180929507
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 53
+  stamp: 
+    secs: 13
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 42.9745731473859
+    y: 19.9602392982114
+    z: 29.9513070667363
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 54
+  stamp: 
+    secs: 13
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 43.9545749099603
+    y: 19.9601103603164
+    z: 29.9650944675859
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 55
+  stamp: 
+    secs: 13
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 44.9614201948554
+    y: 19.9684202521739
+    z: 29.9689265878973
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 56
+  stamp: 
+    secs: 14
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 45.950434597703
+    y: 19.9808018185678
+    z: 29.9735551069745
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 57
+  stamp: 
+    secs: 14
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 46.9647751948756
+    y: 19.9984131060436
+    z: 29.9647642141209
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 58
+  stamp: 
+    secs: 14
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 47.9626556353325
+    y: 19.9765433746313
+    z: 29.9562258845171
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 59
+  stamp: 
+    secs: 14
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 48.9986788944791
+    y: 19.9657263183231
+    z: 29.9968615992609
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 60
+  stamp: 
+    secs: 15
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 49.9881314765831
+    y: 19.976255864677
+    z: 29.9714285186859
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 61
+  stamp: 
+    secs: 15
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 50.9648861487622
+    y: 19.9775330783893
+    z: 29.9952758129323
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 62
+  stamp: 
+    secs: 15
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 51.9547939175758
+    y: 19.9712116695134
+    z: 29.9597584563642
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 63
+  stamp: 
+    secs: 15
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 52.9729961526957
+    y: 19.983411123377
+    z: 29.9965872234307
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 64
+  stamp: 
+    secs: 16
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 53.9728058898805
+    y: 19.9642962985832
+    z: 29.969345941547
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 65
+  stamp: 
+    secs: 16
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 54.9784234013991
+    y: 19.9926362139899
+    z: 29.9856013915587
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 66
+  stamp: 
+    secs: 16
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 55.9574116852605
+    y: 19.9910528225526
+    z: 29.9785619710049
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 67
+  stamp: 
+    secs: 16
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 56.9999945306768
+    y: 19.9523502654581
+    z: 29.9615136346524
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 68
+  stamp: 
+    secs: 17
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 57.9534657508725
+    y: 19.9622703685764
+    z: 29.9927080378954
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 69
+  stamp: 
+    secs: 17
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 58.9792258394261
+    y: 19.9809529218966
+    z: 29.976032995662
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 70
+  stamp: 
+    secs: 17
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 59.9724015678082
+    y: 19.960119625916
+    z: 29.9924922503877
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 71
+  stamp: 
+    secs: 17
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 60.9718794310948
+    y: 19.9564792265116
+    z: 29.9939385476959
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 72
+  stamp: 
+    secs: 18
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 61.9616929196703
+    y: 19.9552660300993
+    z: 29.9605670153449
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 73
+  stamp: 
+    secs: 18
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 62.9992149451917
+    y: 19.9656281095928
+    z: 29.979741284647
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 74
+  stamp: 
+    secs: 18
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 63.9809496251964
+    y: 19.9636609246792
+    z: 29.9836014795594
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 75
+  stamp: 
+    secs: 18
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 64.9949016565707
+    y: 19.9871107505594
+    z: 29.9666499611757
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 76
+  stamp: 
+    secs: 19
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 65.9566540465072
+    y: 19.9959232885213
+    z: 29.9967655171852
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 77
+  stamp: 
+    secs: 19
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 66.9506399946953
+    y: 19.996931826604
+    z: 29.9749150382231
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 78
+  stamp: 
+    secs: 19
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 67.9815033898
+    y: 19.9845967489445
+    z: 29.9844300842195
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 79
+  stamp: 
+    secs: 19
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 68.9508652988152
+    y: 19.9619336939394
+    z: 29.9572124346175
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 80
+  stamp: 
+    secs: 20
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.954027975438
+    y: 19.9659949291876
+    z: 29.9590562594719
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 81
+  stamp: 
+    secs: 20
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9873246217617
+    y: 20.9670961083259
+    z: 29.9840577531198
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 82
+  stamp: 
+    secs: 20
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9734844265633
+    y: 21.9893366787363
+    z: 29.9647946674903
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 83
+  stamp: 
+    secs: 20
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9991968324517
+    y: 22.9830440828347
+    z: 29.9779201748726
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 84
+  stamp: 
+    secs: 21
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9828597725727
+    y: 23.9826295232438
+    z: 29.9550951872044
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 85
+  stamp: 
+    secs: 21
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9563660869469
+    y: 24.991804414802
+    z: 29.9554010581536
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 86
+  stamp: 
+    secs: 21
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 68.9580589696842
+    y: 24.9744908484301
+    z: 29.961883002047
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 87
+  stamp: 
+    secs: 21
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 67.9634369401813
+    y: 24.9993676511967
+    z: 29.9828879609065
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 88
+  stamp: 
+    secs: 22
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 66.9524314103108
+    y: 24.9605012224423
+    z: 29.9681929879299
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 89
+  stamp: 
+    secs: 22
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 65.9675433829217
+    y: 24.9524537768339
+    z: 29.9858437170634
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 90
+  stamp: 
+    secs: 22
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 64.9969053818635
+    y: 24.9918954003815
+    z: 29.960518373737
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 91
+  stamp: 
+    secs: 22
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 63.9840124515655
+    y: 24.9711442612068
+    z: 29.9682971086102
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 92
+  stamp: 
+    secs: 23
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 62.9939043901253
+    y: 24.9865150003776
+    z: 29.9969715032098
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 93
+  stamp: 
+    secs: 23
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 61.9902029614153
+    y: 24.9944178265218
+    z: 29.9504144289267
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 94
+  stamp: 
+    secs: 23
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 60.9926311684436
+    y: 24.9681864890865
+    z: 29.9996597487371
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 95
+  stamp: 
+    secs: 23
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 59.9982627186563
+    y: 24.985388160909
+    z: 29.9592191700875
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 96
+  stamp: 
+    secs: 24
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 58.9977939165192
+    y: 24.9568319664222
+    z: 29.9983473996599
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 97
+  stamp: 
+    secs: 24
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 57.9875843963122
+    y: 24.9599350844786
+    z: 29.9900318288157
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 98
+  stamp: 
+    secs: 24
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 56.9713804301622
+    y: 24.9934599904946
+    z: 29.9511660017781
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 99
+  stamp: 
+    secs: 24
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 55.9706966006531
+    y: 24.9903738372801
+    z: 29.9847218385028
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 100
+  stamp: 
+    secs: 25
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 54.9979012370651
+    y: 24.9533746864849
+    z: 29.9915153106639
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 101
+  stamp: 
+    secs: 25
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 53.9587388597472
+    y: 24.967526031215
+    z: 29.9847195719676
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 102
+  stamp: 
+    secs: 25
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 52.9828675344866
+    y: 24.9892929415585
+    z: 29.9585796553958
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 103
+  stamp: 
+    secs: 25
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 51.9692797304226
+    y: 24.9703674772874
+    z: 29.9711543012456
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 104
+  stamp: 
+    secs: 26
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 50.99122607985
+    y: 24.9500898140067
+    z: 29.9634350924146
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 105
+  stamp: 
+    secs: 26
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 49.9807397151306
+    y: 24.9895382815022
+    z: 29.972917567949
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 106
+  stamp: 
+    secs: 26
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 48.9572107499479
+    y: 24.9663720151691
+    z: 29.9766995180431
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 107
+  stamp: 
+    secs: 26
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 47.9886256039806
+    y: 24.9799815786239
+    z: 29.9995795276521
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 108
+  stamp: 
+    secs: 27
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 46.9855868205059
+    y: 24.9614249707008
+    z: 29.9759549698641
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 109
+  stamp: 
+    secs: 27
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 45.9535963721276
+    y: 24.9886288185686
+    z: 29.9743191966291
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 110
+  stamp: 
+    secs: 27
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 44.9825573471902
+    y: 24.9582993603941
+    z: 29.9760999579016
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 111
+  stamp: 
+    secs: 27
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 43.9835626933521
+    y: 24.9992899901899
+    z: 29.9693394405406
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 112
+  stamp: 
+    secs: 28
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 42.9855499876947
+    y: 24.954425710471
+    z: 29.9595429648527
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 113
+  stamp: 
+    secs: 28
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 41.9864639960735
+    y: 24.9655950135659
+    z: 29.972745195171
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 114
+  stamp: 
+    secs: 28
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 40.9556546865923
+    y: 24.9649654710723
+    z: 29.9523548977797
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 115
+  stamp: 
+    secs: 28
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 39.9954576666479
+    y: 24.9527728721834
+    z: 29.9893725979742
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 116
+  stamp: 
+    secs: 29
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 38.9777449475378
+    y: 24.9802706888109
+    z: 29.9646031625197
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 117
+  stamp: 
+    secs: 29
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 37.9986603763865
+    y: 24.9638868331986
+    z: 29.9784685671999
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 118
+  stamp: 
+    secs: 29
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 36.9942642238888
+    y: 24.9581373040384
+    z: 29.9683578730105
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 119
+  stamp: 
+    secs: 29
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 35.9937840415857
+    y: 24.9642587137238
+    z: 29.9915233149207
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 120
+  stamp: 
+    secs: 30
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 34.9789532890595
+    y: 24.9843983835573
+    z: 29.9982001332333
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 121
+  stamp: 
+    secs: 30
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 33.9899134869043
+    y: 24.9519205109354
+    z: 29.9589240637135
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 122
+  stamp: 
+    secs: 30
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 32.9552741978679
+    y: 24.9762040657058
+    z: 29.9534434912145
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 123
+  stamp: 
+    secs: 30
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 31.965503738314
+    y: 24.9567080665509
+    z: 29.972070932466
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 124
+  stamp: 
+    secs: 31
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 30.9873520502471
+    y: 24.9746559034319
+    z: 29.966756119666
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 125
+  stamp: 
+    secs: 31
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 29.9749118843068
+    y: 24.9898744626634
+    z: 29.9816668281821
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 126
+  stamp: 
+    secs: 31
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 28.9582879649636
+    y: 24.9682525370746
+    z: 29.9538215756517
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 127
+  stamp: 
+    secs: 31
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 27.9994646409265
+    y: 24.9767558343689
+    z: 29.9572132911066
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 128
+  stamp: 
+    secs: 32
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 26.9558855419711
+    y: 24.9966471413846
+    z: 29.9723079471561
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 129
+  stamp: 
+    secs: 32
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 25.9535287501434
+    y: 24.9819670291942
+    z: 29.9540848572082
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 130
+  stamp: 
+    secs: 32
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 24.9609559326455
+    y: 24.9901505330991
+    z: 29.9803410292355
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 131
+  stamp: 
+    secs: 32
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 23.9750828708946
+    y: 24.955271518667
+    z: 29.9565417034472
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 132
+  stamp: 
+    secs: 33
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 22.9625296358616
+    y: 24.9523676769978
+    z: 29.9616281996828
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 133
+  stamp: 
+    secs: 33
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 21.973404064256
+    y: 24.998455893944
+    z: 29.976094867468
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 134
+  stamp: 
+    secs: 33
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 20.9654183916638
+    y: 24.9708060212388
+    z: 29.9965208838845
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 135
+  stamp: 
+    secs: 33
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9821739663564
+    y: 24.9811045322196
+    z: 29.9965643988339
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 136
+  stamp: 
+    secs: 34
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9593175577658
+    y: 25.9864215494041
+    z: 29.9799994231218
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 137
+  stamp: 
+    secs: 34
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9555278504939
+    y: 26.9940889048886
+    z: 29.9880758166909
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 138
+  stamp: 
+    secs: 34
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9663948327457
+    y: 27.9816121685766
+    z: 29.9870279792381
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 139
+  stamp: 
+    secs: 34
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9593753228037
+    y: 28.991744681484
+    z: 29.9613740907038
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 140
+  stamp: 
+    secs: 35
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9578349760929
+    y: 29.9647153277464
+    z: 29.9784682983002
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 141
+  stamp: 
+    secs: 35
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 20.9652488474734
+    y: 29.9537330982755
+    z: 29.9831148331823
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 142
+  stamp: 
+    secs: 35
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 21.961185521921
+    y: 29.982209049412
+    z: 29.988455774012
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 143
+  stamp: 
+    secs: 35
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 22.9882962149086
+    y: 29.969189863848
+    z: 29.9885947608622
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 144
+  stamp: 
+    secs: 36
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 23.9896179910199
+    y: 29.9916710383014
+    z: 29.9706575069324
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 145
+  stamp: 
+    secs: 36
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 24.9712168744437
+    y: 29.9597906321321
+    z: 29.9931300108213
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 146
+  stamp: 
+    secs: 36
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 25.9704077335148
+    y: 29.9705668064024
+    z: 29.9799577443352
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 147
+  stamp: 
+    secs: 36
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 26.9624277413523
+    y: 29.9809714445938
+    z: 29.9949946856852
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 148
+  stamp: 
+    secs: 37
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 27.9562935778253
+    y: 29.991406532544
+    z: 29.9742581252352
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 149
+  stamp: 
+    secs: 37
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 28.9703204792585
+    y: 29.9855256163267
+    z: 29.9964978756833
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 150
+  stamp: 
+    secs: 37
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 29.9883108917203
+    y: 29.9582601394401
+    z: 29.9973681810237
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 151
+  stamp: 
+    secs: 37
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 30.9671323531628
+    y: 29.9868583541847
+    z: 29.9692782118875
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 152
+  stamp: 
+    secs: 38
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 31.9566681903387
+    y: 29.9667217037554
+    z: 29.9618700556043
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 153
+  stamp: 
+    secs: 38
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 32.9860456163868
+    y: 29.9874479717464
+    z: 29.9612221453735
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 154
+  stamp: 
+    secs: 38
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 33.9920844990558
+    y: 29.9776142683455
+    z: 29.972370334654
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 155
+  stamp: 
+    secs: 38
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 34.990139501574
+    y: 29.9886332855001
+    z: 29.9795188790027
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 156
+  stamp: 
+    secs: 39
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 35.9959570881887
+    y: 29.9955679631318
+    z: 29.9636547419286
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 157
+  stamp: 
+    secs: 39
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 36.977095919087
+    y: 29.9814913929612
+    z: 29.979039883005
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 158
+  stamp: 
+    secs: 39
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 37.9979866648544
+    y: 29.961434500817
+    z: 29.9759586636933
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 159
+  stamp: 
+    secs: 39
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 38.988628796311
+    y: 29.991608515082
+    z: 29.9696468603937
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 160
+  stamp: 
+    secs: 40
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 39.9601070745218
+    y: 29.9868063337797
+    z: 29.9573383482
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 161
+  stamp: 
+    secs: 40
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 40.9646893748496
+    y: 29.9538651380137
+    z: 29.9715616659728
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 162
+  stamp: 
+    secs: 40
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 41.9665893399985
+    y: 29.9522453995576
+    z: 29.9803301431402
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 163
+  stamp: 
+    secs: 40
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 42.9648247235703
+    y: 29.9840593772034
+    z: 29.962892304574
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 164
+  stamp: 
+    secs: 41
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 43.9641447471126
+    y: 29.9830080151076
+    z: 29.9857757517785
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 165
+  stamp: 
+    secs: 41
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 44.9910739941314
+    y: 29.9672831357426
+    z: 29.9502033051867
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 166
+  stamp: 
+    secs: 41
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 45.979124048055
+    y: 29.9809097638999
+    z: 29.9749071274049
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 167
+  stamp: 
+    secs: 41
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 46.9699561151529
+    y: 29.9951061648701
+    z: 29.9741406313896
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 168
+  stamp: 
+    secs: 42
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 47.9755770964342
+    y: 29.999770522382
+    z: 29.9739575763682
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 169
+  stamp: 
+    secs: 42
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 48.9959674900496
+    y: 29.9587604305055
+    z: 29.9856659418599
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 170
+  stamp: 
+    secs: 42
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 49.9828930758413
+    y: 29.9624160012295
+    z: 29.96886915355
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 171
+  stamp: 
+    secs: 42
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 50.9742754090803
+    y: 29.9702373530862
+    z: 29.9770949588655
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 172
+  stamp: 
+    secs: 43
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 51.9661154504904
+    y: 29.9629669490922
+    z: 29.9730735359703
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 173
+  stamp: 
+    secs: 43
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 52.9674647391483
+    y: 29.9849933998495
+    z: 29.9771272759441
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 174
+  stamp: 
+    secs: 43
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 53.9949162559479
+    y: 29.957525091268
+    z: 29.9776719636755
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 175
+  stamp: 
+    secs: 43
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 54.9765717400507
+    y: 29.9924061927506
+    z: 29.9946316376353
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 176
+  stamp: 
+    secs: 44
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 55.9706758898542
+    y: 29.9847621509819
+    z: 29.9646595742947
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 177
+  stamp: 
+    secs: 44
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 56.9997601519644
+    y: 29.995597359837
+    z: 29.9540888347332
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 178
+  stamp: 
+    secs: 44
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 57.969970692472
+    y: 29.9936178737503
+    z: 29.9889718289472
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 179
+  stamp: 
+    secs: 44
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 58.9581984326004
+    y: 29.99079332264
+    z: 29.9545667163635
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 180
+  stamp: 
+    secs: 45
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 59.9791969938428
+    y: 29.9643368091886
+    z: 29.9964116080559
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 181
+  stamp: 
+    secs: 45
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 60.9749555686907
+    y: 29.9602857910162
+    z: 29.9647794233474
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 182
+  stamp: 
+    secs: 45
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 61.9516150310651
+    y: 29.9790695553293
+    z: 29.9691524024641
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 183
+  stamp: 
+    secs: 45
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 62.9983160896887
+    y: 29.9829944258191
+    z: 29.9684433891667
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 184
+  stamp: 
+    secs: 46
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 63.955943267012
+    y: 29.9847231381384
+    z: 29.9855607094231
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 185
+  stamp: 
+    secs: 46
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 64.9706105150387
+    y: 29.9518886020805
+    z: 29.955605321788
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 186
+  stamp: 
+    secs: 46
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 65.9891109022418
+    y: 29.9769139309749
+    z: 29.9978466407508
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 187
+  stamp: 
+    secs: 46
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 66.961021120919
+    y: 29.9787659896597
+    z: 29.9536388135562
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 188
+  stamp: 
+    secs: 47
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 67.9951713587441
+    y: 29.9857947787849
+    z: 29.9786041625222
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 189
+  stamp: 
+    secs: 47
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 68.9715701075949
+    y: 29.9500413803354
+    z: 29.9862314413453
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 190
+  stamp: 
+    secs: 47
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9980691191799
+    y: 29.9572429786191
+    z: 29.9961028380915
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 191
+  stamp: 
+    secs: 47
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9690445706301
+    y: 30.9816068933305
+    z: 29.9551573421173
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 192
+  stamp: 
+    secs: 48
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9515556750107
+    y: 31.990228315008
+    z: 29.9819673488975
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 193
+  stamp: 
+    secs: 48
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9955513955775
+    y: 32.9735081071219
+    z: 29.9689762051307
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 194
+  stamp: 
+    secs: 48
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9522816988923
+    y: 33.9501415671132
+    z: 29.990393355446
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 195
+  stamp: 
+    secs: 48
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9529520732426
+    y: 34.9784290024232
+    z: 29.9733678928664
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 196
+  stamp: 
+    secs: 49
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 68.9599830090977
+    y: 34.9948570917816
+    z: 29.9889820312061
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 197
+  stamp: 
+    secs: 49
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 67.98087099866
+    y: 34.9968330949683
+    z: 29.9983920607216
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 198
+  stamp: 
+    secs: 49
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 66.967176833833
+    y: 34.9509116034713
+    z: 29.9952113397354
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 199
+  stamp: 
+    secs: 49
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 65.9535259326158
+    y: 34.9766828153578
+    z: 29.9605365573742
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 200
+  stamp: 
+    secs: 50
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 64.9853080098821
+    y: 34.9604085691304
+    z: 29.9917820679582
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 201
+  stamp: 
+    secs: 50
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 63.9683524000307
+    y: 34.9979892079737
+    z: 29.9754620533623
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 202
+  stamp: 
+    secs: 50
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 62.9695905935265
+    y: 34.9977478952308
+    z: 29.9974363983617
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 203
+  stamp: 
+    secs: 50
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 61.9928120553915
+    y: 34.9832712429312
+    z: 29.9616694669682
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 204
+  stamp: 
+    secs: 51
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 60.9569085003047
+    y: 34.9810611848173
+    z: 29.959772883316
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 205
+  stamp: 
+    secs: 51
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 59.9949689805915
+    y: 34.9961232855243
+    z: 29.9926006810905
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 206
+  stamp: 
+    secs: 51
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 58.9695095317445
+    y: 34.9847138483658
+    z: 29.9868187288705
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 207
+  stamp: 
+    secs: 51
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 57.9893055619675
+    y: 34.9827731800291
+    z: 29.9957950115262
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 208
+  stamp: 
+    secs: 52
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 56.965499511807
+    y: 34.9797742372579
+    z: 29.9843506073529
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 209
+  stamp: 
+    secs: 52
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 55.9568956175516
+    y: 34.9632709913669
+    z: 29.998494509149
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 210
+  stamp: 
+    secs: 52
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 54.9871957420636
+    y: 34.9814415347385
+    z: 29.9550269563329
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 211
+  stamp: 
+    secs: 52
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 53.9695412084133
+    y: 34.9537458017055
+    z: 29.971762239518
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 212
+  stamp: 
+    secs: 53
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 52.9883052989058
+    y: 34.9911897158535
+    z: 29.9645926510376
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 213
+  stamp: 
+    secs: 53
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 51.9777664870178
+    y: 34.9518260468825
+    z: 29.9805343518369
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 214
+  stamp: 
+    secs: 53
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 50.9903825647968
+    y: 34.9536468994435
+    z: 29.9502440293813
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 215
+  stamp: 
+    secs: 53
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 49.9596951353154
+    y: 34.9794345993069
+    z: 29.9563487586071
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 216
+  stamp: 
+    secs: 54
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 48.9718650829485
+    y: 34.9873131687267
+    z: 29.9646976371223
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 217
+  stamp: 
+    secs: 54
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 47.9952191511933
+    y: 34.9551087367826
+    z: 29.9510502372916
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 218
+  stamp: 
+    secs: 54
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 46.9712148488617
+    y: 34.9570447085575
+    z: 29.9984451558245
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 219
+  stamp: 
+    secs: 54
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 45.964571781186
+    y: 34.9757796425583
+    z: 29.9966041858992
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 220
+  stamp: 
+    secs: 55
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 44.9913752932924
+    y: 34.9618470976535
+    z: 29.9810411831834
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 221
+  stamp: 
+    secs: 55
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 43.993730912256
+    y: 34.9918383101491
+    z: 29.9830438391619
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 222
+  stamp: 
+    secs: 55
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 42.9875070885824
+    y: 34.9932078691447
+    z: 29.9941270632482
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 223
+  stamp: 
+    secs: 55
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 41.9500113650316
+    y: 34.9601997794782
+    z: 29.9912071614788
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 224
+  stamp: 
+    secs: 56
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 40.9989533641383
+    y: 34.9647104560579
+    z: 29.9961818907547
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 225
+  stamp: 
+    secs: 56
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 39.9947365484392
+    y: 34.9668915708403
+    z: 29.9656896874124
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 226
+  stamp: 
+    secs: 56
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 38.9886193826882
+    y: 34.9919497871556
+    z: 29.9773261816972
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 227
+  stamp: 
+    secs: 56
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 37.9913609944709
+    y: 34.9686812599884
+    z: 29.9766755869572
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 228
+  stamp: 
+    secs: 57
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 36.9606944515178
+    y: 34.9884801695119
+    z: 29.9851725550207
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 229
+  stamp: 
+    secs: 57
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 35.9851905389265
+    y: 34.9991829595991
+    z: 29.9714470006729
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 230
+  stamp: 
+    secs: 57
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 34.9767501241787
+    y: 34.9722264951406
+    z: 29.9807923538045
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 231
+  stamp: 
+    secs: 57
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 33.9695902649059
+    y: 34.9564719448987
+    z: 29.9868498574068
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 232
+  stamp: 
+    secs: 58
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 32.9610487300345
+    y: 34.9597209469325
+    z: 29.9552841982361
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 233
+  stamp: 
+    secs: 58
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 31.9740587775222
+    y: 34.9509067501992
+    z: 29.9590582468456
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 234
+  stamp: 
+    secs: 58
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 30.9888713416457
+    y: 34.9735203626259
+    z: 29.9831680894939
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 235
+  stamp: 
+    secs: 58
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 29.9741640514571
+    y: 34.9856540713323
+    z: 29.9590121286022
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 236
+  stamp: 
+    secs: 59
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 28.9840423923303
+    y: 34.9647296636536
+    z: 29.9648375365699
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 237
+  stamp: 
+    secs: 59
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 27.9985876902306
+    y: 34.9546962268464
+    z: 29.9726831520818
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 238
+  stamp: 
+    secs: 59
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 26.9956547862688
+    y: 34.9657711196189
+    z: 29.9916605535173
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 239
+  stamp: 
+    secs: 59
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 25.9741394521702
+    y: 34.9624398439986
+    z: 29.9905246068619
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 240
+  stamp: 
+    secs: 60
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 24.9548844073368
+    y: 34.9822350123231
+    z: 29.9865102230566
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 241
+  stamp: 
+    secs: 60
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 23.957273009866
+    y: 34.993366761813
+    z: 29.9681971415165
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 242
+  stamp: 
+    secs: 60
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 22.9731746188449
+    y: 34.9926273743011
+    z: 29.9547689377407
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 243
+  stamp: 
+    secs: 60
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 21.9817976755317
+    y: 34.9979873747412
+    z: 29.9581597203676
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 244
+  stamp: 
+    secs: 61
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 20.9715667596108
+    y: 34.965512497207
+    z: 29.9985983978198
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 245
+  stamp: 
+    secs: 61
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9666580295534
+    y: 34.9958142228229
+    z: 29.9827955598876
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 246
+  stamp: 
+    secs: 61
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9608131211968
+    y: 35.9501666722557
+    z: 29.9688304218134
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 247
+  stamp: 
+    secs: 61
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9763426818022
+    y: 36.9798029545626
+    z: 29.9526844659566
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 248
+  stamp: 
+    secs: 62
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9604479769465
+    y: 37.9821510757588
+    z: 29.9753514250512
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 249
+  stamp: 
+    secs: 62
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9813104541331
+    y: 38.9948985019681
+    z: 29.998869954736
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 250
+  stamp: 
+    secs: 62
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9646961285207
+    y: 39.9522655850212
+    z: 29.9985498726522
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 251
+  stamp: 
+    secs: 62
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 20.967603198809
+    y: 39.9737866842777
+    z: 29.9516030715348
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 252
+  stamp: 
+    secs: 63
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 21.9676600172257
+    y: 39.9665067525067
+    z: 29.9555190532807
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 253
+  stamp: 
+    secs: 63
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 22.9634973758929
+    y: 39.9538177919225
+    z: 29.9888570128102
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 254
+  stamp: 
+    secs: 63
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 23.9995469893123
+    y: 39.9913035703903
+    z: 29.9760556290741
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 255
+  stamp: 
+    secs: 63
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 24.9978797320958
+    y: 39.9777184055481
+    z: 29.9773930232103
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 256
+  stamp: 
+    secs: 64
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 25.9782734348
+    y: 39.9572748270492
+    z: 29.9591839650334
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 257
+  stamp: 
+    secs: 64
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 26.9912409401443
+    y: 39.9502947421663
+    z: 29.9718288050946
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 258
+  stamp: 
+    secs: 64
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 27.9682215073565
+    y: 39.9539332986415
+    z: 29.9892657496189
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 259
+  stamp: 
+    secs: 64
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 28.9697774940688
+    y: 39.9880940205027
+    z: 29.997873369413
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 260
+  stamp: 
+    secs: 65
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 29.98960617044
+    y: 39.9973556523545
+    z: 29.9519522753074
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 261
+  stamp: 
+    secs: 65
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 30.9514114864185
+    y: 39.9697876581464
+    z: 29.9856456047221
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 262
+  stamp: 
+    secs: 65
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 31.9676041101928
+    y: 39.9629106513022
+    z: 29.9983731476144
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 263
+  stamp: 
+    secs: 65
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 32.9699599674379
+    y: 39.9819077626545
+    z: 29.9990409866352
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 264
+  stamp: 
+    secs: 66
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 33.9565757051967
+    y: 39.9749390197307
+    z: 29.9899135223136
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 265
+  stamp: 
+    secs: 66
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 34.9627430657692
+    y: 39.9653539822577
+    z: 29.9994463068018
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 266
+  stamp: 
+    secs: 66
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 35.9648288238518
+    y: 39.9575743459311
+    z: 29.9864498102484
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 267
+  stamp: 
+    secs: 66
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 36.9708569396897
+    y: 39.9667073161016
+    z: 29.9571256248752
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 268
+  stamp: 
+    secs: 67
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 37.9580798126354
+    y: 39.9795760965312
+    z: 29.9752029472646
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 269
+  stamp: 
+    secs: 67
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 38.9532549583908
+    y: 39.9942689039857
+    z: 29.974018503731
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 270
+  stamp: 
+    secs: 67
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 39.9934141594277
+    y: 39.9553807819103
+    z: 29.9971386099919
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 271
+  stamp: 
+    secs: 67
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 40.992807576159
+    y: 39.9955276122111
+    z: 29.999590577385
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 272
+  stamp: 
+    secs: 68
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 41.9501639818876
+    y: 39.999569498015
+    z: 29.9979010683977
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 273
+  stamp: 
+    secs: 68
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 42.9985600288905
+    y: 39.9708301875857
+    z: 29.9971396302737
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 274
+  stamp: 
+    secs: 68
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 43.995642686912
+    y: 39.9583984543439
+    z: 29.9988739922424
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 275
+  stamp: 
+    secs: 68
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 44.986149412148
+    y: 39.9677191949108
+    z: 29.9652980607163
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 276
+  stamp: 
+    secs: 69
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 45.9834466959524
+    y: 39.982683657911
+    z: 29.9730596347658
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 277
+  stamp: 
+    secs: 69
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 46.9695535384657
+    y: 39.9573841103265
+    z: 29.9871801396418
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 278
+  stamp: 
+    secs: 69
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 47.9690370484172
+    y: 39.9716207645875
+    z: 29.9657394935335
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 279
+  stamp: 
+    secs: 69
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 48.9983138740889
+    y: 39.9764756717255
+    z: 29.9525938257411
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 280
+  stamp: 
+    secs: 70
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 49.9762262872738
+    y: 39.9876723881366
+    z: 29.9932412928388
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 281
+  stamp: 
+    secs: 70
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 50.984692931619
+    y: 39.9557018228542
+    z: 29.9767656579942
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 282
+  stamp: 
+    secs: 70
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 51.962817550274
+    y: 39.9828542109378
+    z: 29.9557599232778
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 283
+  stamp: 
+    secs: 70
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 52.9814001549018
+    y: 39.9503898806388
+    z: 29.9908974818947
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 284
+  stamp: 
+    secs: 71
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 53.95939911392
+    y: 39.9927395135493
+    z: 29.9702750665345
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 285
+  stamp: 
+    secs: 71
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 54.9646318578366
+    y: 39.9648929234037
+    z: 29.9830864522668
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 286
+  stamp: 
+    secs: 71
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 55.967068292988
+    y: 39.9657678372515
+    z: 29.9952169406648
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 287
+  stamp: 
+    secs: 71
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 56.993977797884
+    y: 39.9689910134245
+    z: 29.9713303619194
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 288
+  stamp: 
+    secs: 72
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 57.9739609142293
+    y: 39.9555470652147
+    z: 29.9571604660694
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 289
+  stamp: 
+    secs: 72
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 58.9547782644537
+    y: 39.9583368899708
+    z: 29.9882151791852
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 290
+  stamp: 
+    secs: 72
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 59.9523791576136
+    y: 39.9778150642897
+    z: 29.9811152777671
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 291
+  stamp: 
+    secs: 72
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 60.9947802658556
+    y: 39.990974820697
+    z: 29.9892345066013
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 292
+  stamp: 
+    secs: 73
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 61.9563363353022
+    y: 39.9896897093571
+    z: 29.9619187906172
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 293
+  stamp: 
+    secs: 73
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 62.9622583917236
+    y: 39.998379102944
+    z: 29.9965051803244
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 294
+  stamp: 
+    secs: 73
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 63.9557262715977
+    y: 39.9772559196244
+    z: 29.9859404201737
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 295
+  stamp: 
+    secs: 73
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 64.9940540148309
+    y: 39.9981934271513
+    z: 29.983258061622
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 296
+  stamp: 
+    secs: 74
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 65.9505937511536
+    y: 39.9528250682518
+    z: 29.9744948354216
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 297
+  stamp: 
+    secs: 74
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 66.9876573070867
+    y: 39.9517850906986
+    z: 29.9602407027349
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 298
+  stamp: 
+    secs: 74
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 67.9746047255424
+    y: 39.9529005248178
+    z: 29.9920248974702
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 299
+  stamp: 
+    secs: 74
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 68.9741513600824
+    y: 39.9527312009839
+    z: 29.9653907355307
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 300
+  stamp: 
+    secs: 75
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9851234744959
+    y: 39.9659635997856
+    z: 29.9634751931192
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 301
+  stamp: 
+    secs: 75
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9553480682249
+    y: 40.9758431934017
+    z: 29.997978402407
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 302
+  stamp: 
+    secs: 75
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9958607249124
+    y: 41.9910403183082
+    z: 29.9789727565135
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 303
+  stamp: 
+    secs: 75
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9717464946786
+    y: 42.9948857204522
+    z: 29.9823940244018
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 304
+  stamp: 
+    secs: 76
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9559112176115
+    y: 43.9683016938782
+    z: 29.9550086633503
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 305
+  stamp: 
+    secs: 76
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9592426685232
+    y: 44.9809131950255
+    z: 29.9608938613235
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 306
+  stamp: 
+    secs: 76
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 68.9598758011489
+    y: 44.9581984985071
+    z: 29.9565012688357
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 307
+  stamp: 
+    secs: 76
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 67.959771307333
+    y: 44.9773931363293
+    z: 29.9817557891494
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 308
+  stamp: 
+    secs: 77
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 66.9770504778279
+    y: 44.9727207837449
+    z: 29.990445301027
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 309
+  stamp: 
+    secs: 77
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 65.9552031721316
+    y: 44.9623683191466
+    z: 29.9771751118422
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 310
+  stamp: 
+    secs: 77
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 64.9901593132181
+    y: 44.9885921962843
+    z: 29.9945196421179
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 311
+  stamp: 
+    secs: 77
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 63.9585456105322
+    y: 44.967186674443
+    z: 29.9676887402124
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 312
+  stamp: 
+    secs: 78
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 62.9866305682866
+    y: 44.9987244187064
+    z: 29.9935758543661
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 313
+  stamp: 
+    secs: 78
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 61.9846800892066
+    y: 44.9729910986979
+    z: 29.9986411599125
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 314
+  stamp: 
+    secs: 78
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 60.9655162062997
+    y: 44.9720224764402
+    z: 29.9538665344846
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 315
+  stamp: 
+    secs: 78
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 59.9698118931854
+    y: 44.952971516108
+    z: 29.9878290750816
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 316
+  stamp: 
+    secs: 79
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 58.9862887392252
+    y: 44.9737107684429
+    z: 29.9594415391643
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 317
+  stamp: 
+    secs: 79
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 57.9587020876596
+    y: 44.9557944082829
+    z: 29.9754586408821
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 318
+  stamp: 
+    secs: 79
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 56.9659621640054
+    y: 44.9764810003419
+    z: 29.9520063592219
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 319
+  stamp: 
+    secs: 79
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 55.9759983200597
+    y: 44.9556156695829
+    z: 29.9892867506166
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 320
+  stamp: 
+    secs: 80
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 54.9641037100951
+    y: 44.9871297324232
+    z: 29.9588209910856
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 321
+  stamp: 
+    secs: 80
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 53.9517808337625
+    y: 44.9502941462615
+    z: 29.9959218121738
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 322
+  stamp: 
+    secs: 80
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 52.9666300610459
+    y: 44.9766212327386
+    z: 29.9579731797671
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 323
+  stamp: 
+    secs: 80
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 51.9645783668134
+    y: 44.9644204313119
+    z: 29.9569003957729
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 324
+  stamp: 
+    secs: 81
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 50.9850073423511
+    y: 44.9717570309226
+    z: 29.9518587061564
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 325
+  stamp: 
+    secs: 81
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 49.9985290203631
+    y: 44.9628476058877
+    z: 29.9836635515268
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 326
+  stamp: 
+    secs: 81
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 48.9853985068487
+    y: 44.9859459280012
+    z: 29.9624933512668
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 327
+  stamp: 
+    secs: 81
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 47.9885419771957
+    y: 44.9562250320468
+    z: 29.994564341145
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 328
+  stamp: 
+    secs: 82
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 46.9613447809776
+    y: 44.9945007880015
+    z: 29.9980578655889
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 329
+  stamp: 
+    secs: 82
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 45.9888688575605
+    y: 44.9650768944078
+    z: 29.9709616377004
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 330
+  stamp: 
+    secs: 82
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 44.9709795203237
+    y: 44.9923278668759
+    z: 29.9697338499946
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 331
+  stamp: 
+    secs: 82
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 43.9779568000522
+    y: 44.9890586741369
+    z: 29.9961783616816
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 332
+  stamp: 
+    secs: 83
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 42.9605579577357
+    y: 44.9955806549485
+    z: 29.9871260068968
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 333
+  stamp: 
+    secs: 83
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 41.9760273743629
+    y: 44.9687749530098
+    z: 29.9643649428949
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 334
+  stamp: 
+    secs: 83
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 40.9540808080741
+    y: 44.9748641852511
+    z: 29.9556356435853
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 335
+  stamp: 
+    secs: 83
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 39.9831467329535
+    y: 44.9930507810494
+    z: 29.9502764611978
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 336
+  stamp: 
+    secs: 84
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 38.9828569313542
+    y: 44.9940730023942
+    z: 29.9750949555911
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 337
+  stamp: 
+    secs: 84
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 37.9981726213731
+    y: 44.992592777726
+    z: 29.9704276733469
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 338
+  stamp: 
+    secs: 84
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 36.9783290084001
+    y: 44.9860285723139
+    z: 29.9705377727854
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 339
+  stamp: 
+    secs: 84
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 35.9840258646108
+    y: 44.9633554862909
+    z: 29.9691760888287
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 340
+  stamp: 
+    secs: 85
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 34.9569318297102
+    y: 44.9872432180979
+    z: 29.9806030165563
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 341
+  stamp: 
+    secs: 85
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 33.9754602561415
+    y: 44.9695845025998
+    z: 29.9746150503829
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 342
+  stamp: 
+    secs: 85
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 32.9656099992812
+    y: 44.9806243553611
+    z: 29.9603167176834
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 343
+  stamp: 
+    secs: 85
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 31.9762039040968
+    y: 44.9825541517607
+    z: 29.9811221328591
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 344
+  stamp: 
+    secs: 86
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 30.9839019060156
+    y: 44.9713839975099
+    z: 29.9581682620978
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 345
+  stamp: 
+    secs: 86
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 29.9554633451906
+    y: 44.9920498530087
+    z: 29.9686360783483
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 346
+  stamp: 
+    secs: 86
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 28.9549242839105
+    y: 44.992655596703
+    z: 29.9848753878487
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 347
+  stamp: 
+    secs: 86
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 27.9559044011278
+    y: 44.9817738545054
+    z: 29.9586854147705
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 348
+  stamp: 
+    secs: 87
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 26.979901659076
+    y: 44.97553013223
+    z: 29.9587912476624
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 349
+  stamp: 
+    secs: 87
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 25.9887057957226
+    y: 44.9807971953172
+    z: 29.9690768739806
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 350
+  stamp: 
+    secs: 87
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 24.9740693434486
+    y: 44.9521244947497
+    z: 29.9768808699995
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 351
+  stamp: 
+    secs: 87
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 23.9626149399209
+    y: 44.9804211448261
+    z: 29.9927025422582
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 352
+  stamp: 
+    secs: 88
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 22.9837174341353
+    y: 44.9712089879646
+    z: 29.9531024121952
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 353
+  stamp: 
+    secs: 88
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 21.969541043071
+    y: 44.9981903531959
+    z: 29.9588978778103
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 354
+  stamp: 
+    secs: 88
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 20.9735743116456
+    y: 44.9863991924182
+    z: 29.9794400466913
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 355
+  stamp: 
+    secs: 88
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9953879189647
+    y: 44.9692236933998
+    z: 29.9508951755354
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 356
+  stamp: 
+    secs: 89
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9974216614346
+    y: 45.9569140279392
+    z: 29.9533328144769
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 357
+  stamp: 
+    secs: 89
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9632135352409
+    y: 46.9601216080455
+    z: 29.9788182964439
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 358
+  stamp: 
+    secs: 89
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9592361176174
+    y: 47.9567321939882
+    z: 29.9536681259811
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 359
+  stamp: 
+    secs: 89
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9770455400708
+    y: 48.9747587036057
+    z: 29.9636303998064
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 360
+  stamp: 
+    secs: 90
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9740547453249
+    y: 49.9736859942327
+    z: 29.9698728648082
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 361
+  stamp: 
+    secs: 90
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 20.9918685709941
+    y: 49.9766377795414
+    z: 29.958163723106
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 362
+  stamp: 
+    secs: 90
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 21.9764768977425
+    y: 49.9792300591186
+    z: 29.9735509796414
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 363
+  stamp: 
+    secs: 90
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 22.9543505872582
+    y: 49.9838610308499
+    z: 29.9953493556182
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 364
+  stamp: 
+    secs: 91
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 23.9611090716546
+    y: 49.9837614221462
+    z: 29.9976798929853
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 365
+  stamp: 
+    secs: 91
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 24.9719918146731
+    y: 49.9617090876835
+    z: 29.9552293126942
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 366
+  stamp: 
+    secs: 91
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 25.9601229696007
+    y: 49.9508922661891
+    z: 29.987595772204
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 367
+  stamp: 
+    secs: 91
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 26.9803312311324
+    y: 49.9995649359802
+    z: 29.9676330219697
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 368
+  stamp: 
+    secs: 92
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 27.9706441734043
+    y: 49.9604737846743
+    z: 29.9955931880364
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 369
+  stamp: 
+    secs: 92
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 28.9765441488148
+    y: 49.9755050304631
+    z: 29.9542241982566
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 370
+  stamp: 
+    secs: 92
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 29.9951974849837
+    y: 49.9621359986269
+    z: 29.9945435647664
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 371
+  stamp: 
+    secs: 92
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 30.9737071086974
+    y: 49.9652565993923
+    z: 29.9694539655091
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 372
+  stamp: 
+    secs: 93
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 31.9708247447492
+    y: 49.9750469003031
+    z: 29.9575011822761
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 373
+  stamp: 
+    secs: 93
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 32.9958259153506
+    y: 49.9579040125265
+    z: 29.9719774701886
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 374
+  stamp: 
+    secs: 93
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 33.9890103887454
+    y: 49.9967671871256
+    z: 29.9609481462062
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 375
+  stamp: 
+    secs: 93
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 34.9809241880171
+    y: 49.9624645917603
+    z: 29.9614631560992
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 376
+  stamp: 
+    secs: 94
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 35.9876671940158
+    y: 49.9792697589883
+    z: 29.9960537568653
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 377
+  stamp: 
+    secs: 94
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 36.9618306065786
+    y: 49.9906780873584
+    z: 29.9666448825032
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 378
+  stamp: 
+    secs: 94
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 37.9569261295697
+    y: 49.9980086449393
+    z: 29.9570131195407
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 379
+  stamp: 
+    secs: 94
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 38.9580611511739
+    y: 49.9767737581622
+    z: 29.9923682520438
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 380
+  stamp: 
+    secs: 95
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 39.9708411694492
+    y: 49.9898338317329
+    z: 29.9718497372851
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 381
+  stamp: 
+    secs: 95
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 40.9641982899836
+    y: 49.977902410507
+    z: 29.978887360906
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 382
+  stamp: 
+    secs: 95
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 41.9837985914635
+    y: 49.9502877848566
+    z: 29.9837320286711
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 383
+  stamp: 
+    secs: 95
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 42.9691487612566
+    y: 49.9549387807441
+    z: 29.961846088717
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 384
+  stamp: 
+    secs: 96
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 43.9630634910926
+    y: 49.981165292171
+    z: 29.9780384567144
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 385
+  stamp: 
+    secs: 96
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 44.9976511185266
+    y: 49.9894697269089
+    z: 29.9752640615495
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 386
+  stamp: 
+    secs: 96
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 45.959180738027
+    y: 49.9793448659342
+    z: 29.9692119985351
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 387
+  stamp: 
+    secs: 96
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 46.9593254501679
+    y: 49.998484284654
+    z: 29.9746690363923
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 388
+  stamp: 
+    secs: 97
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 47.9560433978773
+    y: 49.9994348135121
+    z: 29.9625477444951
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 389
+  stamp: 
+    secs: 97
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 48.9991181253955
+    y: 49.9679964158785
+    z: 29.9764257709756
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 390
+  stamp: 
+    secs: 97
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 49.9839014244124
+    y: 49.9975468640607
+    z: 29.9780232305609
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 391
+  stamp: 
+    secs: 97
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 50.9923056239574
+    y: 49.9714123312548
+    z: 29.9913627417933
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 392
+  stamp: 
+    secs: 98
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 51.9803017011894
+    y: 49.9682238777325
+    z: 29.9712502093531
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 393
+  stamp: 
+    secs: 98
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 52.9627911723072
+    y: 49.9609859891353
+    z: 29.9797118651156
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 394
+  stamp: 
+    secs: 98
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 53.9874937866038
+    y: 49.9657116920582
+    z: 29.9711288821082
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 395
+  stamp: 
+    secs: 98
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 54.9990031827458
+    y: 49.9950819647549
+    z: 29.95896472309
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 396
+  stamp: 
+    secs: 99
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 55.9901510023482
+    y: 49.9794258369287
+    z: 29.9950928120262
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 397
+  stamp: 
+    secs: 99
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 56.996887374492
+    y: 49.9826977459923
+    z: 29.9923138166157
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 398
+  stamp: 
+    secs: 99
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 57.9632062289572
+    y: 49.9819153851409
+    z: 29.9795537978611
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 399
+  stamp: 
+    secs: 99
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 58.9764722003534
+    y: 49.9593701144153
+    z: 29.989081473992
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 400
+  stamp: 
+    secs: 100
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 59.9708505778806
+    y: 49.9568054767824
+    z: 29.9536752689956
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 401
+  stamp: 
+    secs: 100
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 60.9661007272224
+    y: 49.9775581626088
+    z: 29.969801999144
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 402
+  stamp: 
+    secs: 100
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 61.9708459461702
+    y: 49.9875944319425
+    z: 29.9717680727098
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 403
+  stamp: 
+    secs: 100
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 62.9586131276035
+    y: 49.9634448690846
+    z: 29.9795070201435
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 404
+  stamp: 
+    secs: 101
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 63.9639093676629
+    y: 49.9731717455332
+    z: 29.9999367760475
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 405
+  stamp: 
+    secs: 101
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 64.9900347663552
+    y: 49.9772537317027
+    z: 29.9927780265843
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 406
+  stamp: 
+    secs: 101
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 65.9721299512039
+    y: 49.9701507459155
+    z: 29.9699625795254
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 407
+  stamp: 
+    secs: 101
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 66.9856808567807
+    y: 49.9852755151218
+    z: 29.9764096148623
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 408
+  stamp: 
+    secs: 102
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 67.9672938662065
+    y: 49.9955739983338
+    z: 29.9516477754164
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 409
+  stamp: 
+    secs: 102
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 68.9911571712058
+    y: 49.9866001178005
+    z: 29.985736285337
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 410
+  stamp: 
+    secs: 102
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9602362669118
+    y: 49.9602427130596
+    z: 29.9782022467548
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 411
+  stamp: 
+    secs: 102
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9905542665681
+    y: 50.9669360966835
+    z: 29.9514190360206
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 412
+  stamp: 
+    secs: 103
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9736347748899
+    y: 51.9969153541096
+    z: 29.9720905133508
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 413
+  stamp: 
+    secs: 103
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9950726136995
+    y: 52.9831954067384
+    z: 29.9968780294863
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 414
+  stamp: 
+    secs: 103
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9941719976464
+    y: 53.9547632615493
+    z: 29.9511389886573
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 415
+  stamp: 
+    secs: 103
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9758519499558
+    y: 54.9747696104429
+    z: 29.950638063674
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 416
+  stamp: 
+    secs: 104
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 68.9954120843312
+    y: 54.9665264283405
+    z: 29.9902137530015
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 417
+  stamp: 
+    secs: 104
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 67.9698617687823
+    y: 54.9592728534902
+    z: 29.9936709901604
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 418
+  stamp: 
+    secs: 104
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 66.9597566530573
+    y: 54.9783731150152
+    z: 29.998090214059
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 419
+  stamp: 
+    secs: 104
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 65.9662513102359
+    y: 54.9594224467246
+    z: 29.9570644365056
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 420
+  stamp: 
+    secs: 105
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 64.9901263697044
+    y: 54.9742523787738
+    z: 29.9703636464014
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 421
+  stamp: 
+    secs: 105
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 63.9763059263061
+    y: 54.9521244106545
+    z: 29.9952943382967
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 422
+  stamp: 
+    secs: 105
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 62.9503214789107
+    y: 54.9714360215716
+    z: 29.9532002686937
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 423
+  stamp: 
+    secs: 105
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 61.9920762743418
+    y: 54.972898804217
+    z: 29.953769814535
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 424
+  stamp: 
+    secs: 106
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 60.9931937422552
+    y: 54.964624978783
+    z: 29.9610896370761
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 425
+  stamp: 
+    secs: 106
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 59.9868022353453
+    y: 54.9707935637605
+    z: 29.9987940615728
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 426
+  stamp: 
+    secs: 106
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 58.9764990179206
+    y: 54.9848949345453
+    z: 29.9610490697406
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 427
+  stamp: 
+    secs: 106
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 57.9724815081091
+    y: 54.9815340768775
+    z: 29.9651725265864
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 428
+  stamp: 
+    secs: 107
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 56.9643329068298
+    y: 54.9723654710627
+    z: 29.9574334068794
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 429
+  stamp: 
+    secs: 107
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 55.9595475074442
+    y: 54.9606330351389
+    z: 29.9953880290661
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 430
+  stamp: 
+    secs: 107
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 54.9649154765062
+    y: 54.9658320534529
+    z: 29.9601163688549
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 431
+  stamp: 
+    secs: 107
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 53.9897513007632
+    y: 54.9811276680351
+    z: 29.956284374206
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 432
+  stamp: 
+    secs: 108
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 52.9687386706659
+    y: 54.9906341718907
+    z: 29.9830450168334
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 433
+  stamp: 
+    secs: 108
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 51.9995240917654
+    y: 54.9976351045172
+    z: 29.9827158660546
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 434
+  stamp: 
+    secs: 108
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 50.9961298822444
+    y: 54.9894440105049
+    z: 29.9539213577107
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 435
+  stamp: 
+    secs: 108
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 49.9903501941737
+    y: 54.9513598666815
+    z: 29.9508887790905
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 436
+  stamp: 
+    secs: 109
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 48.959756116769
+    y: 54.9641614995965
+    z: 29.9624471014697
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 437
+  stamp: 
+    secs: 109
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 47.9675545646764
+    y: 54.9697011544779
+    z: 29.9712962695677
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 438
+  stamp: 
+    secs: 109
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 46.9500178804447
+    y: 54.9555570964416
+    z: 29.9629514859018
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 439
+  stamp: 
+    secs: 109
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 45.9746251408453
+    y: 54.9598750529715
+    z: 29.9888162431941
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 440
+  stamp: 
+    secs: 110
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 44.9870063553498
+    y: 54.971909839022
+    z: 29.9584053961002
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 441
+  stamp: 
+    secs: 110
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 43.975879369515
+    y: 54.9850703594726
+    z: 29.9591327368557
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 442
+  stamp: 
+    secs: 110
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 42.9613015485187
+    y: 54.9516383132386
+    z: 29.9616558173804
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 443
+  stamp: 
+    secs: 110
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 41.9624750273976
+    y: 54.9542539639743
+    z: 29.9659093187462
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 444
+  stamp: 
+    secs: 111
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 40.9889558347898
+    y: 54.9567712591825
+    z: 29.9691388718235
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 445
+  stamp: 
+    secs: 111
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 39.9762689281708
+    y: 54.9910328401259
+    z: 29.9987271225096
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 446
+  stamp: 
+    secs: 111
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 38.9586717906773
+    y: 54.9853290614063
+    z: 29.9506759830693
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 447
+  stamp: 
+    secs: 111
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 37.9913322439343
+    y: 54.9759268126684
+    z: 29.9605979416729
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 448
+  stamp: 
+    secs: 112
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 36.9774281479719
+    y: 54.9714749759084
+    z: 29.9620690722801
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 449
+  stamp: 
+    secs: 112
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 35.9972168309507
+    y: 54.992727264735
+    z: 29.9564065512575
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 450
+  stamp: 
+    secs: 112
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 34.9532821628943
+    y: 54.9852099821234
+    z: 29.957599397528
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 451
+  stamp: 
+    secs: 112
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 33.9572508520175
+    y: 54.9938336474771
+    z: 29.9610098864697
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 452
+  stamp: 
+    secs: 113
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 32.9853366952172
+    y: 54.9511026393575
+    z: 29.9814780341394
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 453
+  stamp: 
+    secs: 113
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 31.9546271007646
+    y: 54.9666228005267
+    z: 29.99251646023
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 454
+  stamp: 
+    secs: 113
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 30.9707521944655
+    y: 54.9904181859379
+    z: 29.9925592019393
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 455
+  stamp: 
+    secs: 113
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 29.9807257256493
+    y: 54.9715072694065
+    z: 29.9929647345037
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 456
+  stamp: 
+    secs: 114
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 28.9513449715108
+    y: 54.9503772828739
+    z: 29.9755292841591
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 457
+  stamp: 
+    secs: 114
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 27.9814572364917
+    y: 54.9624841291315
+    z: 29.9519608080575
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 458
+  stamp: 
+    secs: 114
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 26.9827594028748
+    y: 54.9872268929434
+    z: 29.9505673090265
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 459
+  stamp: 
+    secs: 114
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 25.9894187460227
+    y: 54.993450451045
+    z: 29.9686461806738
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 460
+  stamp: 
+    secs: 115
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 24.9982753395889
+    y: 54.9694126545737
+    z: 29.9532492543823
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 461
+  stamp: 
+    secs: 115
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 23.9664405846799
+    y: 54.9799137545795
+    z: 29.990209049603
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 462
+  stamp: 
+    secs: 115
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 22.9553625834273
+    y: 54.9638706981541
+    z: 29.9971223572902
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 463
+  stamp: 
+    secs: 115
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 21.9586184715936
+    y: 54.9870822844368
+    z: 29.9806402649405
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 464
+  stamp: 
+    secs: 116
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 20.9853188345619
+    y: 54.9687268435236
+    z: 29.9940060287534
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 465
+  stamp: 
+    secs: 116
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9634326938963
+    y: 54.9512883194923
+    z: 29.9928710078076
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 466
+  stamp: 
+    secs: 116
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9891181253764
+    y: 55.9737278074303
+    z: 29.950850040678
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 467
+  stamp: 
+    secs: 116
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9781412004671
+    y: 56.9809232610425
+    z: 29.9697004295956
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 468
+  stamp: 
+    secs: 117
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9724306566569
+    y: 57.9976729181908
+    z: 29.9501957105522
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 469
+  stamp: 
+    secs: 117
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9545142631129
+    y: 58.9686346606997
+    z: 29.9782767095168
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 470
+  stamp: 
+    secs: 117
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9871291515096
+    y: 59.9941175293576
+    z: 29.9543217814513
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 1.0
+    w: 0.0
+---
+header: 
+  seq: 471
+  stamp: 
+    secs: 117
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 20.9704543943431
+    y: 59.9554390245651
+    z: 29.9896588918368
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 472
+  stamp: 
+    secs: 118
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 21.987764121517
+    y: 59.966819044628
+    z: 29.9992244554789
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 473
+  stamp: 
+    secs: 118
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 22.9850292603412
+    y: 59.983458038576
+    z: 29.9754641283278
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 474
+  stamp: 
+    secs: 118
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 23.9689507738916
+    y: 59.962523745106
+    z: 29.9865498814423
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 475
+  stamp: 
+    secs: 118
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 24.9793835720228
+    y: 59.999287430046
+    z: 29.9912898322445
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 476
+  stamp: 
+    secs: 119
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 25.9701435083013
+    y: 59.9983614621205
+    z: 29.9991092165057
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 477
+  stamp: 
+    secs: 119
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 26.9874394176888
+    y: 59.9843317331175
+    z: 29.9519024019067
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 478
+  stamp: 
+    secs: 119
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 27.9778700537885
+    y: 59.9936482925389
+    z: 29.9519592962619
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 479
+  stamp: 
+    secs: 119
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 28.9702103506105
+    y: 59.9940443777965
+    z: 29.9858117967794
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 480
+  stamp: 
+    secs: 120
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 29.9921104053531
+    y: 59.9733005249029
+    z: 29.9531052610971
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 481
+  stamp: 
+    secs: 120
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 30.9818766519986
+    y: 59.9524562564125
+    z: 29.977082516651
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 482
+  stamp: 
+    secs: 120
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 31.993507280434
+    y: 59.9978352789032
+    z: 29.9684146200635
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 483
+  stamp: 
+    secs: 120
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 32.9532016328599
+    y: 59.9941372014595
+    z: 29.9756725834871
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 484
+  stamp: 
+    secs: 121
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 33.9563514641682
+    y: 59.9553516931546
+    z: 29.9570489800778
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 485
+  stamp: 
+    secs: 121
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 34.988579437518
+    y: 59.9597220554437
+    z: 29.9645921732809
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 486
+  stamp: 
+    secs: 121
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 35.9600545511758
+    y: 59.9703758752573
+    z: 29.9673912940057
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 487
+  stamp: 
+    secs: 121
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 36.9983563886135
+    y: 59.952747129685
+    z: 29.9623362801824
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 488
+  stamp: 
+    secs: 122
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 37.9706111238415
+    y: 59.9502692620668
+    z: 29.992063948388
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 489
+  stamp: 
+    secs: 122
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 38.979459719746
+    y: 59.9506619236229
+    z: 29.9545606997866
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 490
+  stamp: 
+    secs: 122
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 39.9630241926626
+    y: 59.9884522032886
+    z: 29.981118324573
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 491
+  stamp: 
+    secs: 122
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 40.9696348452176
+    y: 59.9854403046329
+    z: 29.982660897355
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 492
+  stamp: 
+    secs: 123
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 41.9819196182669
+    y: 59.9549831024357
+    z: 29.9933844326999
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 493
+  stamp: 
+    secs: 123
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 42.956627129456
+    y: 59.9918602231642
+    z: 29.9727654947125
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 494
+  stamp: 
+    secs: 123
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 43.9909651356829
+    y: 59.9920274984377
+    z: 29.9731829013333
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 495
+  stamp: 
+    secs: 123
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 44.9999534580007
+    y: 59.9876030580602
+    z: 29.9941552906591
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 496
+  stamp: 
+    secs: 124
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 45.9685916313737
+    y: 59.99361380544
+    z: 29.9895775319017
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 497
+  stamp: 
+    secs: 124
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 46.9728185039967
+    y: 59.975478866617
+    z: 29.9569250561768
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 498
+  stamp: 
+    secs: 124
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 47.9873978893909
+    y: 59.9767159708909
+    z: 29.9722562776874
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 499
+  stamp: 
+    secs: 124
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 48.9639757769052
+    y: 59.9804010815609
+    z: 29.9520188181905
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 500
+  stamp: 
+    secs: 125
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 49.9972029218683
+    y: 59.9934094059222
+    z: 29.9727901626881
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 501
+  stamp: 
+    secs: 125
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 50.9687028444878
+    y: 59.9636115865692
+    z: 29.9569958152159
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 502
+  stamp: 
+    secs: 125
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 51.9646663025232
+    y: 59.9609930280882
+    z: 29.9701956632495
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 503
+  stamp: 
+    secs: 125
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 52.9998239999572
+    y: 59.9711213062735
+    z: 29.9894052161974
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 504
+  stamp: 
+    secs: 126
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 53.9580476457099
+    y: 59.9869523071996
+    z: 29.9620505020976
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 505
+  stamp: 
+    secs: 126
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 54.9963304970527
+    y: 59.9637735242387
+    z: 29.9571576380177
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 506
+  stamp: 
+    secs: 126
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 55.9849265902747
+    y: 59.9997207771486
+    z: 29.9725221294372
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 507
+  stamp: 
+    secs: 126
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 56.9534758996964
+    y: 59.9949334419427
+    z: 29.9759313318585
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 508
+  stamp: 
+    secs: 127
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 57.9559733764089
+    y: 59.9875452298289
+    z: 29.9902371038754
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 509
+  stamp: 
+    secs: 127
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 58.9866664871157
+    y: 59.9650440559165
+    z: 29.9518193176113
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 510
+  stamp: 
+    secs: 127
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 59.9885826571917
+    y: 59.9777796159748
+    z: 29.9564689400444
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 511
+  stamp: 
+    secs: 127
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 60.9581913530519
+    y: 59.9637396729779
+    z: 29.9945417897535
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 512
+  stamp: 
+    secs: 128
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 61.9537002421112
+    y: 59.9690309723644
+    z: 29.9973177496237
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 513
+  stamp: 
+    secs: 128
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 62.9562355879063
+    y: 59.9767052843407
+    z: 29.9873579411067
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 514
+  stamp: 
+    secs: 128
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 63.9503465640088
+    y: 59.9850044253475
+    z: 29.9667928503284
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 515
+  stamp: 
+    secs: 128
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 64.9952411959012
+    y: 59.9608149777114
+    z: 29.9560202265378
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 516
+  stamp: 
+    secs: 129
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 65.9604567450417
+    y: 59.986509091019
+    z: 29.9780700649673
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 517
+  stamp: 
+    secs: 129
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 66.9695290886907
+    y: 59.9949387179184
+    z: 29.9761153632324
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 518
+  stamp: 
+    secs: 129
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 67.962262311912
+    y: 59.9521495535146
+    z: 29.9860239164804
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 519
+  stamp: 
+    secs: 129
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 68.973821574623
+    y: 59.9566310856946
+    z: 29.9852690710189
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 520
+  stamp: 
+    secs: 130
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9510303944368
+    y: 59.9764662481914
+    z: 29.9863991413839
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 521
+  stamp: 
+    secs: 130
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9974827921769
+    y: 59.9945456107738
+    z: 29.986054151095
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 522
+  stamp: 
+    secs: 130
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9606280653179
+    y: 59.9834830990494
+    z: 29.9966273996238
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.17364817766693003
+    w: 0.9848077530122081
+---
+header: 
+  seq: 523
+  stamp: 
+    secs: 130
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9957488027553
+    y: 59.9749133002251
+    z: 29.9927088525276
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.3420201433256691
+    w: 0.9396926207859083
+---
+header: 
+  seq: 524
+  stamp: 
+    secs: 131
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9561652142677
+    y: 59.9591960037434
+    z: 29.9626299732385
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.4999999999999999
+    w: 0.8660254037844388
+---
+header: 
+  seq: 525
+  stamp: 
+    secs: 131
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9508576746808
+    y: 59.9929704396913
+    z: 29.9667721684521
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.6427876096865391
+    w: 0.7660444431189782
+---
+header: 
+  seq: 526
+  stamp: 
+    secs: 131
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 69.9621189392506
+    y: 59.9876178700236
+    z: 29.9861489836426
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 527
+  stamp: 
+    secs: 131
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 68.7043337990015
+    y: 58.7195722451486
+    z: 29.4693826798999
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 528
+  stamp: 
+    secs: 132
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 67.4991057329796
+    y: 57.4869774645324
+    z: 28.981514107504
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 529
+  stamp: 
+    secs: 132
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 66.2311343190684
+    y: 56.2313324264011
+    z: 28.4582985974706
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 530
+  stamp: 
+    secs: 132
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 64.98776785114
+    y: 54.9951700490825
+    z: 27.9716516739315
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 531
+  stamp: 
+    secs: 132
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 63.7394329685621
+    y: 53.7286071241171
+    z: 27.4780259181994
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 532
+  stamp: 
+    secs: 133
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 62.4749249428131
+    y: 52.476521964909
+    z: 26.9759948472104
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 533
+  stamp: 
+    secs: 133
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 61.2236500039672
+    y: 51.2391562404193
+    z: 26.4967528298354
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 534
+  stamp: 
+    secs: 133
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 59.9670637482838
+    y: 49.9791790104606
+    z: 25.9559721308014
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 535
+  stamp: 
+    secs: 133
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 58.7240655291392
+    y: 48.7365812820788
+    z: 25.4731650330988
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 536
+  stamp: 
+    secs: 134
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 57.4714886688226
+    y: 47.4967254451533
+    z: 24.9763969946547
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 537
+  stamp: 
+    secs: 134
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 56.2313526068019
+    y: 46.2079376520206
+    z: 24.4975511723085
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 538
+  stamp: 
+    secs: 134
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 54.9831182479983
+    y: 44.9806064438595
+    z: 23.9978921075277
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 539
+  stamp: 
+    secs: 134
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 53.741114947851
+    y: 43.7183712865339
+    z: 23.4519704755724
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 540
+  stamp: 
+    secs: 135
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 52.4765719773748
+    y: 42.4713749633969
+    z: 22.9546922027443
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 541
+  stamp: 
+    secs: 135
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 51.2052460876365
+    y: 41.2101370911225
+    z: 22.4591790803132
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 542
+  stamp: 
+    secs: 135
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 49.9976197637644
+    y: 39.9635390469705
+    z: 21.9600421004578
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 543
+  stamp: 
+    secs: 135
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 48.7453855382667
+    y: 38.7032993609998
+    z: 21.451735840511
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 544
+  stamp: 
+    secs: 136
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 47.4919888713935
+    y: 37.4691620666028
+    z: 20.9749164667197
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 545
+  stamp: 
+    secs: 136
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 46.2348021673989
+    y: 36.2283901388401
+    z: 20.4951642789079
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 546
+  stamp: 
+    secs: 136
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 44.9929498413938
+    y: 34.9704600846903
+    z: 19.9527707828748
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 547
+  stamp: 
+    secs: 136
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 43.7353773728436
+    y: 33.7037129465583
+    z: 19.4969453570061
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 548
+  stamp: 
+    secs: 137
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 42.4710334523993
+    y: 32.4980036935049
+    z: 18.9603657918736
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 549
+  stamp: 
+    secs: 137
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 41.2363267679216
+    y: 31.239130616277
+    z: 18.4671961179307
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 550
+  stamp: 
+    secs: 137
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 39.9816556044858
+    y: 29.993273681023
+    z: 17.9911215430786
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 551
+  stamp: 
+    secs: 137
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 38.7480540968867
+    y: 28.7076820525267
+    z: 17.4892222854394
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 552
+  stamp: 
+    secs: 138
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 37.4876163358467
+    y: 27.4785289118522
+    z: 16.9623254871926
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 553
+  stamp: 
+    secs: 138
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 36.2018198065465
+    y: 26.2054405490533
+    z: 16.4659633894147
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 554
+  stamp: 
+    secs: 138
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 34.9944666585541
+    y: 24.9870324926466
+    z: 15.9603344918689
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 555
+  stamp: 
+    secs: 138
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 33.7469923479929
+    y: 23.7084685146032
+    z: 15.4806677748652
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 556
+  stamp: 
+    secs: 139
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 32.4980480343984
+    y: 22.4565354107989
+    z: 14.9595207365407
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 557
+  stamp: 
+    secs: 139
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 31.2297588668012
+    y: 21.2441114051205
+    z: 14.4603121515558
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 558
+  stamp: 
+    secs: 139
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 29.9834347704026
+    y: 19.9950588883213
+    z: 13.9614862926141
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 559
+  stamp: 
+    secs: 139
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 28.7056178932034
+    y: 18.7473658398991
+    z: 13.4580974578476
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 560
+  stamp: 
+    secs: 140
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 27.4586755689069
+    y: 17.4784428902846
+    z: 12.9975928050019
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 561
+  stamp: 
+    secs: 140
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 26.2412515251345
+    y: 16.2101538534955
+    z: 12.4922998119835
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 562
+  stamp: 
+    secs: 140
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 24.9833710614109
+    y: 14.9903524818621
+    z: 11.9560355463745
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 563
+  stamp: 
+    secs: 140
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 23.7275908237128
+    y: 13.7266935575574
+    z: 11.4622838889529
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 564
+  stamp: 
+    secs: 141
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 22.4707230774003
+    y: 12.4535235202595
+    z: 10.9607463383471
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 565
+  stamp: 
+    secs: 141
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 21.2239168072624
+    y: 11.227309857897
+    z: 10.4759545149306
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 566
+  stamp: 
+    secs: 141
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 19.9868527359056
+    y: 9.97236821355917
+    z: 9.96862444157513
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 567
+  stamp: 
+    secs: 141
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 18.711585945961
+    y: 8.71638263976627
+    z: 9.46195202309072
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 568
+  stamp: 
+    secs: 142
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 17.4834307027982
+    y: 7.46218786946449
+    z: 8.99624875576832
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 569
+  stamp: 
+    secs: 142
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 16.226278888529
+    y: 6.23105792744892
+    z: 8.47620616748619
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 570
+  stamp: 
+    secs: 142
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 14.9534896238727
+    y: 4.97804777917922
+    z: 7.99294531533744
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 571
+  stamp: 
+    secs: 142
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 13.7481236284436
+    y: 3.71025126852666
+    z: 7.46903352884582
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 572
+  stamp: 
+    secs: 143
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 12.4500741463684
+    y: 2.4812164557443
+    z: 6.96427850789748
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 573
+  stamp: 
+    secs: 143
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 11.2063200483528
+    y: 1.24366237230177
+    z: 6.46964235449579
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -0.707106781186547
+    w: 0.707106781186548
+---
+header: 
+  seq: 574
+  stamp: 
+    secs: 143
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 9.98827633352972
+    y: 0.0
+    z: 5.96726940059842
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 575
+  stamp: 
+    secs: 143
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 8.73617976347883
+    y: 0.0
+    z: 5.48000572928555
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 576
+  stamp: 
+    secs: 144
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 7.48859916396791
+    y: 0.0
+    z: 4.98866660037086
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 577
+  stamp: 
+    secs: 144
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 6.21859118411919
+    y: 0.0
+    z: 4.48468021143992
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 578
+  stamp: 
+    secs: 144
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 4.99071638152303
+    y: 0.0
+    z: 3.99098004834001
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 579
+  stamp: 
+    secs: 144
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 3.73228680021064
+    y: 0.0
+    z: 3.46462784308584
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 580
+  stamp: 
+    secs: 145
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 2.45250337243127
+    y: 0.0
+    z: 2.95669312004507
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 581
+  stamp: 
+    secs: 145
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 1.23905712700745
+    y: 0.0
+    z: 2.47145826161386
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: -1.0
+    w: 0.0
+---
+header: 
+  seq: 582
+  stamp: 
+    secs: 145
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.022729021257592
+    y: 0.0
+    z: 1.97275872749319
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 583
+  stamp: 
+    secs: 145
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 1.46259417288837
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 584
+  stamp: 
+    secs: 146
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 0.952994080874624
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 585
+  stamp: 
+    secs: 146
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 0.474751861356489
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 586
+  stamp: 
+    secs: 146
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 0.0453705460322297
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 587
+  stamp: 
+    secs: 146
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 588
+  stamp: 
+    secs: 147
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 589
+  stamp: 
+    secs: 147
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 590
+  stamp: 
+    secs: 147
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 591
+  stamp: 
+    secs: 147
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 592
+  stamp: 
+    secs: 148
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 593
+  stamp: 
+    secs: 148
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 594
+  stamp: 
+    secs: 148
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 595
+  stamp: 
+    secs: 148
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 596
+  stamp: 
+    secs: 149
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 597
+  stamp: 
+    secs: 149
+    nsecs: 250000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 598
+  stamp: 
+    secs: 149
+    nsecs: 500000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 599
+  stamp: 
+    secs: 149
+    nsecs: 750000000
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+---
+header: 
+  seq: 600
+  stamp: 
+    secs: 150
+    nsecs: 0
+  frame_id: "tomsa_1"
+pose: 
+  position: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0

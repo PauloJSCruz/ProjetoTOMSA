@@ -312,6 +312,10 @@ class Trajetoria:
         for i in range(len(pontosFiltrados) - 1):
             ponto1 = pontosFiltrados[i]
             ponto2 = pontosFiltrados[i + 1]
+            if (ponto1['x'] == ponto2['x'] and 
+                ponto1['y'] == ponto2['y'] and 
+                ponto1['z'] == ponto2['z']):
+                continue
 
             # Obter as temperaturas associadas aos pontos P1 e P2
             temp1 = ponto1['temperatura']
@@ -328,6 +332,7 @@ class Trajetoria:
             distancias = [0, np.linalg.norm(ponto2Arr - ponto1Arr)]
 
             # Criar a spline cúbica para a temperatura ao longo da distância
+            
             splineCubic = CubicSpline(distancias, temperaturas)
 
             # Definir os pontos de interpolação ao longo da linha entre P1 e P2

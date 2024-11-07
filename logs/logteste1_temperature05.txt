@@ -1,0 +1,2709 @@
+header:
+  frame_id: tomsa_1
+  seq: 0
+  stamp:
+    nsecs: 0
+    secs: 0
+temperature: 25.48892161536318
+variance: 0.451621341213955
+---
+header:
+  frame_id: tomsa_1
+  seq: 2
+  stamp:
+    nsecs: 500000000
+    secs: 0
+temperature: 25.654892485885213
+variance: 0.5158838104036318
+---
+header:
+  frame_id: tomsa_1
+  seq: 4
+  stamp:
+    nsecs: 0
+    secs: 1
+temperature: 27.024197124498446
+variance: 0.5158838104036318
+---
+header:
+  frame_id: tomsa_1
+  seq: 6
+  stamp:
+    nsecs: 500000000
+    secs: 1
+temperature: 28.143496750919045
+variance: 0.7052174442293108
+---
+header:
+  frame_id: tomsa_1
+  seq: 8
+  stamp:
+    nsecs: 0
+    secs: 2
+temperature: 28.629730111918143
+variance: 0.2954227156759438
+---
+header:
+  frame_id: tomsa_1
+  seq: 10
+  stamp:
+    nsecs: 500000000
+    secs: 2
+temperature: 29.402030256255177
+variance: 0.22127021868076482
+---
+header:
+  frame_id: tomsa_1
+  seq: 12
+  stamp:
+    nsecs: 0
+    secs: 3
+temperature: 29.990102917920442
+variance: 0.3226742240142008
+---
+header:
+  frame_id: tomsa_1
+  seq: 14
+  stamp:
+    nsecs: 500000000
+    secs: 3
+temperature: 30.109440984561335
+variance: 0.14869294148723916
+---
+header:
+  frame_id: tomsa_1
+  seq: 16
+  stamp:
+    nsecs: 0
+    secs: 4
+temperature: 31.04726071406077
+variance: 0.17067270633275872
+---
+header:
+  frame_id: tomsa_1
+  seq: 18
+  stamp:
+    nsecs: 500000000
+    secs: 4
+temperature: 31.418372870530984
+variance: 0.22624564814040649
+---
+header:
+  frame_id: tomsa_1
+  seq: 20
+  stamp:
+    nsecs: 0
+    secs: 5
+temperature: 31.958272858031012
+variance: 0.19431038934381367
+---
+header:
+  frame_id: tomsa_1
+  seq: 22
+  stamp:
+    nsecs: 500000000
+    secs: 5
+temperature: 32.80942883285644
+variance: 0.3688610601322846
+---
+header:
+  frame_id: tomsa_1
+  seq: 24
+  stamp:
+    nsecs: 0
+    secs: 6
+temperature: 33.81920465475621
+variance: 0.45423575066614597
+---
+header:
+  frame_id: tomsa_1
+  seq: 26
+  stamp:
+    nsecs: 500000000
+    secs: 6
+temperature: 33.891059003220164
+variance: 0.20677494799168455
+---
+header:
+  frame_id: tomsa_1
+  seq: 28
+  stamp:
+    nsecs: 0
+    secs: 7
+temperature: 34.795115656433545
+variance: 0.26490238724099735
+---
+header:
+  frame_id: tomsa_1
+  seq: 30
+  stamp:
+    nsecs: 500000000
+    secs: 7
+temperature: 35.481570188253656
+variance: 0.2780323715968232
+---
+header:
+  frame_id: tomsa_1
+  seq: 32
+  stamp:
+    nsecs: 0
+    secs: 8
+temperature: 34.58126135332792
+variance: 0.0944780002096227
+---
+header:
+  frame_id: tomsa_1
+  seq: 34
+  stamp:
+    nsecs: 500000000
+    secs: 8
+temperature: 35.378547559975914
+variance: 0.11799348759882297
+---
+header:
+  frame_id: tomsa_1
+  seq: 36
+  stamp:
+    nsecs: 0
+    secs: 9
+temperature: 34.83082498924754
+variance: 0.08923920930451149
+---
+header:
+  frame_id: tomsa_1
+  seq: 38
+  stamp:
+    nsecs: 500000000
+    secs: 9
+temperature: 35.40924655239285
+variance: 0.11779657607485597
+---
+header:
+  frame_id: tomsa_1
+  seq: 40
+  stamp:
+    nsecs: 0
+    secs: 10
+temperature: 34.674065407746134
+variance: 0.07418478732442416
+---
+header:
+  frame_id: tomsa_1
+  seq: 42
+  stamp:
+    nsecs: 500000000
+    secs: 10
+temperature: 35.467620983889695
+variance: 0.09268798804717245
+---
+header:
+  frame_id: tomsa_1
+  seq: 44
+  stamp:
+    nsecs: 0
+    secs: 11
+temperature: 35.48306482772248
+variance: 0.09849967650009664
+---
+header:
+  frame_id: tomsa_1
+  seq: 46
+  stamp:
+    nsecs: 500000000
+    secs: 11
+temperature: 34.70995479074778
+variance: 0.10283936115914165
+---
+header:
+  frame_id: tomsa_1
+  seq: 48
+  stamp:
+    nsecs: 0
+    secs: 12
+temperature: 34.62420607913681
+variance: 0.11100290187990072
+---
+header:
+  frame_id: tomsa_1
+  seq: 50
+  stamp:
+    nsecs: 500000000
+    secs: 12
+temperature: 34.51688055322945
+variance: 0.010819085658663968
+---
+header:
+  frame_id: tomsa_1
+  seq: 52
+  stamp:
+    nsecs: 0
+    secs: 13
+temperature: 34.8742961413577
+variance: 0.09774503470021224
+---
+header:
+  frame_id: tomsa_1
+  seq: 54
+  stamp:
+    nsecs: 500000000
+    secs: 13
+temperature: 34.71310332848344
+variance: 0.09017030250054828
+---
+header:
+  frame_id: tomsa_1
+  seq: 56
+  stamp:
+    nsecs: 0
+    secs: 14
+temperature: 34.85816235856525
+variance: 0.009076023955086011
+---
+header:
+  frame_id: tomsa_1
+  seq: 58
+  stamp:
+    nsecs: 500000000
+    secs: 14
+temperature: 34.706024206799654
+variance: 0.04183448437483412
+---
+header:
+  frame_id: tomsa_1
+  seq: 60
+  stamp:
+    nsecs: 0
+    secs: 15
+temperature: 35.15233474901209
+variance: 0.06907460571724897
+---
+header:
+  frame_id: tomsa_1
+  seq: 62
+  stamp:
+    nsecs: 500000000
+    secs: 15
+temperature: 35.454160020454204
+variance: 0.09133480710056845
+---
+header:
+  frame_id: tomsa_1
+  seq: 64
+  stamp:
+    nsecs: 0
+    secs: 16
+temperature: 35.38789839925974
+variance: 0.04668896340538751
+---
+header:
+  frame_id: tomsa_1
+  seq: 66
+  stamp:
+    nsecs: 500000000
+    secs: 16
+temperature: 34.791061229020315
+variance: 0.05717169120691641
+---
+header:
+  frame_id: tomsa_1
+  seq: 68
+  stamp:
+    nsecs: 0
+    secs: 17
+temperature: 34.72910935746723
+variance: 0.07511828864765513
+---
+header:
+  frame_id: tomsa_1
+  seq: 70
+  stamp:
+    nsecs: 500000000
+    secs: 17
+temperature: 34.828508177188645
+variance: 0.0074077733578132715
+---
+header:
+  frame_id: tomsa_1
+  seq: 72
+  stamp:
+    nsecs: 0
+    secs: 18
+temperature: 34.95831355543862
+variance: 0.0654880783106456
+---
+header:
+  frame_id: tomsa_1
+  seq: 74
+  stamp:
+    nsecs: 500000000
+    secs: 18
+temperature: 35.05409723529606
+variance: 0.05400888374802153
+---
+header:
+  frame_id: tomsa_1
+  seq: 76
+  stamp:
+    nsecs: 0
+    secs: 19
+temperature: 35.24840294415109
+variance: 0.025239060082780533
+---
+header:
+  frame_id: tomsa_1
+  seq: 78
+  stamp:
+    nsecs: 500000000
+    secs: 19
+temperature: 34.73519648482526
+variance: 0.060052423569153225
+---
+header:
+  frame_id: tomsa_1
+  seq: 80
+  stamp:
+    nsecs: 0
+    secs: 20
+temperature: 34.89514324243114
+variance: 0.05838178526780848
+---
+header:
+  frame_id: tomsa_1
+  seq: 82
+  stamp:
+    nsecs: 500000000
+    secs: 20
+temperature: 34.548778757889565
+variance: 0.06649277192410948
+---
+header:
+  frame_id: tomsa_1
+  seq: 84
+  stamp:
+    nsecs: 0
+    secs: 21
+temperature: 35.01699311610827
+variance: 0.049178656165860896
+---
+header:
+  frame_id: tomsa_1
+  seq: 86
+  stamp:
+    nsecs: 500000000
+    secs: 21
+temperature: 34.806554208520694
+variance: 0.03357378442322888
+---
+header:
+  frame_id: tomsa_1
+  seq: 88
+  stamp:
+    nsecs: 0
+    secs: 22
+temperature: 34.93782815379037
+variance: 0.0451267854296462
+---
+header:
+  frame_id: tomsa_1
+  seq: 90
+  stamp:
+    nsecs: 500000000
+    secs: 22
+temperature: 35.07279859810947
+variance: 0.044889762157015824
+---
+header:
+  frame_id: tomsa_1
+  seq: 92
+  stamp:
+    nsecs: 0
+    secs: 23
+temperature: 34.835444906104264
+variance: 0.010902034229154636
+---
+header:
+  frame_id: tomsa_1
+  seq: 94
+  stamp:
+    nsecs: 500000000
+    secs: 23
+temperature: 34.97982149113457
+variance: 0.010941854817196343
+---
+header:
+  frame_id: tomsa_1
+  seq: 96
+  stamp:
+    nsecs: 0
+    secs: 24
+temperature: 35.14200237078635
+variance: 0.009941285126517546
+---
+header:
+  frame_id: tomsa_1
+  seq: 98
+  stamp:
+    nsecs: 500000000
+    secs: 24
+temperature: 35.35928951697762
+variance: 0.020109022586573825
+---
+header:
+  frame_id: tomsa_1
+  seq: 100
+  stamp:
+    nsecs: 0
+    secs: 25
+temperature: 34.796219119814516
+variance: 0.033032114995190404
+---
+header:
+  frame_id: tomsa_1
+  seq: 102
+  stamp:
+    nsecs: 500000000
+    secs: 25
+temperature: 34.81919563757924
+variance: 0.07360357705948138
+---
+header:
+  frame_id: tomsa_1
+  seq: 104
+  stamp:
+    nsecs: 0
+    secs: 26
+temperature: 34.885799169254284
+variance: 0.013050373339572966
+---
+header:
+  frame_id: tomsa_1
+  seq: 106
+  stamp:
+    nsecs: 500000000
+    secs: 26
+temperature: 35.22826236792791
+variance: 0.029626037065407923
+---
+header:
+  frame_id: tomsa_1
+  seq: 108
+  stamp:
+    nsecs: 0
+    secs: 27
+temperature: 34.804507227848575
+variance: 0.03879874809467361
+---
+header:
+  frame_id: tomsa_1
+  seq: 110
+  stamp:
+    nsecs: 500000000
+    secs: 27
+temperature: 34.76721626270758
+variance: 0.04296448539007094
+---
+header:
+  frame_id: tomsa_1
+  seq: 112
+  stamp:
+    nsecs: 0
+    secs: 28
+temperature: 35.44212817845495
+variance: 0.06793449944660511
+---
+header:
+  frame_id: tomsa_1
+  seq: 114
+  stamp:
+    nsecs: 500000000
+    secs: 28
+temperature: 34.92226966796708
+variance: 0.06747044117770289
+---
+header:
+  frame_id: tomsa_1
+  seq: 116
+  stamp:
+    nsecs: 0
+    secs: 29
+temperature: 34.70865567084191
+variance: 0.08748694994518723
+---
+header:
+  frame_id: tomsa_1
+  seq: 118
+  stamp:
+    nsecs: 500000000
+    secs: 29
+temperature: 34.57350639791603
+variance: 0.06847860560075093
+---
+header:
+  frame_id: tomsa_1
+  seq: 120
+  stamp:
+    nsecs: 0
+    secs: 30
+temperature: 34.859055037446645
+variance: 0.011116160683639006
+---
+header:
+  frame_id: tomsa_1
+  seq: 122
+  stamp:
+    nsecs: 500000000
+    secs: 30
+temperature: 34.91309213416628
+variance: 0.01840392313500412
+---
+header:
+  frame_id: tomsa_1
+  seq: 124
+  stamp:
+    nsecs: 0
+    secs: 31
+temperature: 34.87327794546334
+variance: 0.020164282406950906
+---
+header:
+  frame_id: tomsa_1
+  seq: 126
+  stamp:
+    nsecs: 500000000
+    secs: 31
+temperature: 34.54801586024679
+variance: 0.026268153851311992
+---
+header:
+  frame_id: tomsa_1
+  seq: 128
+  stamp:
+    nsecs: 0
+    secs: 32
+temperature: 35.01733681442078
+variance: 0.029194893031200618
+---
+header:
+  frame_id: tomsa_1
+  seq: 130
+  stamp:
+    nsecs: 500000000
+    secs: 32
+temperature: 34.55457511032486
+variance: 0.0689634552661074
+---
+header:
+  frame_id: tomsa_1
+  seq: 132
+  stamp:
+    nsecs: 0
+    secs: 33
+temperature: 35.050832605556586
+variance: 0.06285754268877244
+---
+header:
+  frame_id: tomsa_1
+  seq: 134
+  stamp:
+    nsecs: 500000000
+    secs: 33
+temperature: 35.31958176957157
+variance: 0.0944744561831555
+---
+header:
+  frame_id: tomsa_1
+  seq: 136
+  stamp:
+    nsecs: 0
+    secs: 34
+temperature: 34.581180096663644
+variance: 0.0772646255317175
+---
+header:
+  frame_id: tomsa_1
+  seq: 138
+  stamp:
+    nsecs: 500000000
+    secs: 34
+temperature: 35.385740330676775
+variance: 0.12477365874966377
+---
+header:
+  frame_id: tomsa_1
+  seq: 140
+  stamp:
+    nsecs: 0
+    secs: 35
+temperature: 35.19609916279481
+variance: 0.1168579855688967
+---
+header:
+  frame_id: tomsa_1
+  seq: 142
+  stamp:
+    nsecs: 500000000
+    secs: 35
+temperature: 35.02451069993414
+variance: 0.07383678242917281
+---
+header:
+  frame_id: tomsa_1
+  seq: 144
+  stamp:
+    nsecs: 0
+    secs: 36
+temperature: 34.77617213449532
+variance: 0.04310159499550998
+---
+header:
+  frame_id: tomsa_1
+  seq: 146
+  stamp:
+    nsecs: 500000000
+    secs: 36
+temperature: 34.86343777121978
+variance: 0.05070916293299547
+---
+header:
+  frame_id: tomsa_1
+  seq: 148
+  stamp:
+    nsecs: 0
+    secs: 37
+temperature: 34.82601318391065
+variance: 0.01605695457500069
+---
+header:
+  frame_id: tomsa_1
+  seq: 150
+  stamp:
+    nsecs: 500000000
+    secs: 37
+temperature: 34.92708899102196
+variance: 0.036064986773799594
+---
+header:
+  frame_id: tomsa_1
+  seq: 152
+  stamp:
+    nsecs: 0
+    secs: 38
+temperature: 34.60511726667962
+variance: 0.06582209895402027
+---
+header:
+  frame_id: tomsa_1
+  seq: 154
+  stamp:
+    nsecs: 500000000
+    secs: 38
+temperature: 35.45317740913934
+variance: 0.10509614960708893
+---
+header:
+  frame_id: tomsa_1
+  seq: 156
+  stamp:
+    nsecs: 0
+    secs: 39
+temperature: 35.349321010738294
+variance: 0.13302705671192405
+---
+header:
+  frame_id: tomsa_1
+  seq: 158
+  stamp:
+    nsecs: 500000000
+    secs: 39
+temperature: 34.515550642783865
+variance: 0.14874199680037373
+---
+header:
+  frame_id: tomsa_1
+  seq: 160
+  stamp:
+    nsecs: 0
+    secs: 40
+temperature: 35.05686589423981
+variance: 0.10407469581603321
+---
+header:
+  frame_id: tomsa_1
+  seq: 162
+  stamp:
+    nsecs: 500000000
+    secs: 40
+temperature: 35.00957898355006
+variance: 0.10986045590715174
+---
+header:
+  frame_id: tomsa_1
+  seq: 164
+  stamp:
+    nsecs: 0
+    secs: 41
+temperature: 34.89870518692337
+variance: 0.031775192529752
+---
+header:
+  frame_id: tomsa_1
+  seq: 166
+  stamp:
+    nsecs: 500000000
+    secs: 41
+temperature: 34.691419237536444
+variance: 0.05734974865861038
+---
+header:
+  frame_id: tomsa_1
+  seq: 168
+  stamp:
+    nsecs: 0
+    secs: 42
+temperature: 34.60958066503099
+variance: 0.11547863988886434
+---
+header:
+  frame_id: tomsa_1
+  seq: 170
+  stamp:
+    nsecs: 500000000
+    secs: 42
+temperature: 35.02639729315618
+variance: 0.12945332132249293
+---
+header:
+  frame_id: tomsa_1
+  seq: 172
+  stamp:
+    nsecs: 0
+    secs: 43
+temperature: 35.095951198352026
+variance: 0.09483975796834956
+---
+header:
+  frame_id: tomsa_1
+  seq: 174
+  stamp:
+    nsecs: 500000000
+    secs: 43
+temperature: 35.47469345062985
+variance: 0.03034460247308237
+---
+header:
+  frame_id: tomsa_1
+  seq: 176
+  stamp:
+    nsecs: 0
+    secs: 44
+temperature: 35.41276070984859
+variance: 0.11801777137709094
+---
+header:
+  frame_id: tomsa_1
+  seq: 178
+  stamp:
+    nsecs: 500000000
+    secs: 44
+temperature: 35.30429924657572
+variance: 0.13604785909559
+---
+header:
+  frame_id: tomsa_1
+  seq: 180
+  stamp:
+    nsecs: 0
+    secs: 45
+temperature: 34.93702430107663
+variance: 0.05096383961867308
+---
+header:
+  frame_id: tomsa_1
+  seq: 182
+  stamp:
+    nsecs: 500000000
+    secs: 45
+temperature: 34.98765677467717
+variance: 0.028407082555827624
+---
+header:
+  frame_id: tomsa_1
+  seq: 184
+  stamp:
+    nsecs: 0
+    secs: 46
+temperature: 34.5242660646419
+variance: 0.07278588161192556
+---
+header:
+  frame_id: tomsa_1
+  seq: 186
+  stamp:
+    nsecs: 500000000
+    secs: 46
+temperature: 35.198963134657504
+variance: 0.061173192063427397
+---
+header:
+  frame_id: tomsa_1
+  seq: 188
+  stamp:
+    nsecs: 0
+    secs: 47
+temperature: 34.59533400956927
+variance: 0.05989637128230131
+---
+header:
+  frame_id: tomsa_1
+  seq: 190
+  stamp:
+    nsecs: 500000000
+    secs: 47
+temperature: 34.88140065932017
+variance: 0.04930179201937167
+---
+header:
+  frame_id: tomsa_1
+  seq: 192
+  stamp:
+    nsecs: 0
+    secs: 48
+temperature: 34.81845813920126
+variance: 0.06134311930496254
+---
+header:
+  frame_id: tomsa_1
+  seq: 194
+  stamp:
+    nsecs: 500000000
+    secs: 48
+temperature: 35.10684088161038
+variance: 0.05547975635502439
+---
+header:
+  frame_id: tomsa_1
+  seq: 196
+  stamp:
+    nsecs: 0
+    secs: 49
+temperature: 35.068149552926535
+variance: 0.033814134739631005
+---
+header:
+  frame_id: tomsa_1
+  seq: 198
+  stamp:
+    nsecs: 500000000
+    secs: 49
+temperature: 34.55892786297611
+variance: 0.0491881221148638
+---
+header:
+  frame_id: tomsa_1
+  seq: 200
+  stamp:
+    nsecs: 0
+    secs: 50
+temperature: 35.02374879608699
+variance: 0.0463685774927964
+---
+header:
+  frame_id: tomsa_1
+  seq: 202
+  stamp:
+    nsecs: 500000000
+    secs: 50
+temperature: 35.26310590122409
+variance: 0.07433350394825161
+---
+header:
+  frame_id: tomsa_1
+  seq: 204
+  stamp:
+    nsecs: 0
+    secs: 51
+temperature: 35.0244081084411
+variance: 0.06445189622135214
+---
+header:
+  frame_id: tomsa_1
+  seq: 206
+  stamp:
+    nsecs: 500000000
+    secs: 51
+temperature: 34.84977308775991
+variance: 0.05201718921506422
+---
+header:
+  frame_id: tomsa_1
+  seq: 208
+  stamp:
+    nsecs: 0
+    secs: 52
+temperature: 35.08638067803142
+variance: 0.02716727678356195
+---
+header:
+  frame_id: tomsa_1
+  seq: 210
+  stamp:
+    nsecs: 500000000
+    secs: 52
+temperature: 35.14892050190425
+variance: 0.013649954444562287
+---
+header:
+  frame_id: tomsa_1
+  seq: 212
+  stamp:
+    nsecs: 0
+    secs: 53
+temperature: 34.913260544731706
+variance: 0.025181480683148495
+---
+header:
+  frame_id: tomsa_1
+  seq: 214
+  stamp:
+    nsecs: 500000000
+    secs: 53
+temperature: 34.628681947170975
+variance: 0.08620541003357715
+---
+header:
+  frame_id: tomsa_1
+  seq: 216
+  stamp:
+    nsecs: 0
+    secs: 54
+temperature: 35.336130388709265
+variance: 0.08889454917535969
+---
+header:
+  frame_id: tomsa_1
+  seq: 218
+  stamp:
+    nsecs: 500000000
+    secs: 54
+temperature: 35.37491165993689
+variance: 0.13502180056698204
+---
+header:
+  frame_id: tomsa_1
+  seq: 220
+  stamp:
+    nsecs: 0
+    secs: 55
+temperature: 34.9961395865966
+variance: 0.10239066713275864
+---
+header:
+  frame_id: tomsa_1
+  seq: 222
+  stamp:
+    nsecs: 500000000
+    secs: 55
+temperature: 35.13784541125063
+variance: 0.08789908133498224
+---
+header:
+  frame_id: tomsa_1
+  seq: 224
+  stamp:
+    nsecs: 0
+    secs: 56
+temperature: 34.50115911992017
+variance: 0.059596472985910434
+---
+header:
+  frame_id: tomsa_1
+  seq: 226
+  stamp:
+    nsecs: 500000000
+    secs: 56
+temperature: 34.75534316736266
+variance: 0.07838524427934403
+---
+header:
+  frame_id: tomsa_1
+  seq: 228
+  stamp:
+    nsecs: 0
+    secs: 57
+temperature: 34.52853757746121
+variance: 0.061587090851143014
+---
+header:
+  frame_id: tomsa_1
+  seq: 230
+  stamp:
+    nsecs: 500000000
+    secs: 57
+temperature: 34.5106945891414
+variance: 0.04125347570432998
+---
+header:
+  frame_id: tomsa_1
+  seq: 232
+  stamp:
+    nsecs: 0
+    secs: 58
+temperature: 35.287642090010806
+variance: 0.10243216700119746
+---
+header:
+  frame_id: tomsa_1
+  seq: 234
+  stamp:
+    nsecs: 500000000
+    secs: 58
+temperature: 34.50505436515182
+variance: 0.08881396389573368
+---
+header:
+  frame_id: tomsa_1
+  seq: 236
+  stamp:
+    nsecs: 0
+    secs: 59
+temperature: 34.63570775870684
+variance: 0.07268810381049517
+---
+header:
+  frame_id: tomsa_1
+  seq: 238
+  stamp:
+    nsecs: 500000000
+    secs: 59
+temperature: 34.623975252427414
+variance: 0.020236619554770293
+---
+header:
+  frame_id: tomsa_1
+  seq: 240
+  stamp:
+    nsecs: 0
+    secs: 60
+temperature: 34.65267781462515
+variance: 0.047815927097492175
+---
+header:
+  frame_id: tomsa_1
+  seq: 242
+  stamp:
+    nsecs: 500000000
+    secs: 60
+temperature: 35.09714982074024
+variance: 0.059979735203811245
+---
+header:
+  frame_id: tomsa_1
+  seq: 244
+  stamp:
+    nsecs: 0
+    secs: 61
+temperature: 35.07029770127709
+variance: 0.0504048838163698
+---
+header:
+  frame_id: tomsa_1
+  seq: 246
+  stamp:
+    nsecs: 500000000
+    secs: 61
+temperature: 34.63100260315341
+variance: 0.056959439697767324
+---
+header:
+  frame_id: tomsa_1
+  seq: 248
+  stamp:
+    nsecs: 0
+    secs: 62
+temperature: 34.56153619531644
+variance: 0.05571460296502214
+---
+header:
+  frame_id: tomsa_1
+  seq: 250
+  stamp:
+    nsecs: 500000000
+    secs: 62
+temperature: 35.16423801819972
+variance: 0.06895448493203578
+---
+header:
+  frame_id: tomsa_1
+  seq: 252
+  stamp:
+    nsecs: 0
+    secs: 63
+temperature: 35.17977011332902
+variance: 0.05683049416553539
+---
+header:
+  frame_id: tomsa_1
+  seq: 254
+  stamp:
+    nsecs: 500000000
+    secs: 63
+temperature: 34.67516720642867
+variance: 0.040351252681584335
+---
+header:
+  frame_id: tomsa_1
+  seq: 256
+  stamp:
+    nsecs: 0
+    secs: 64
+temperature: 35.37791323075484
+variance: 0.06953798863376318
+---
+header:
+  frame_id: tomsa_1
+  seq: 258
+  stamp:
+    nsecs: 500000000
+    secs: 64
+temperature: 34.641442311429195
+variance: 0.10780091226292857
+---
+header:
+  frame_id: tomsa_1
+  seq: 260
+  stamp:
+    nsecs: 0
+    secs: 65
+temperature: 34.57541800816545
+variance: 0.1510915761711637
+---
+header:
+  frame_id: tomsa_1
+  seq: 262
+  stamp:
+    nsecs: 500000000
+    secs: 65
+temperature: 34.55045495195503
+variance: 0.01032549521324367
+---
+header:
+  frame_id: tomsa_1
+  seq: 264
+  stamp:
+    nsecs: 0
+    secs: 66
+temperature: 34.9365867221652
+variance: 0.10246953525635683
+---
+header:
+  frame_id: tomsa_1
+  seq: 266
+  stamp:
+    nsecs: 500000000
+    secs: 66
+temperature: 35.37067242293959
+variance: 0.11975092847646071
+---
+header:
+  frame_id: tomsa_1
+  seq: 268
+  stamp:
+    nsecs: 0
+    secs: 67
+temperature: 34.81739726340866
+variance: 0.05861796914682197
+---
+header:
+  frame_id: tomsa_1
+  seq: 270
+  stamp:
+    nsecs: 500000000
+    secs: 67
+temperature: 34.66486105694641
+variance: 0.11355660177430675
+---
+header:
+  frame_id: tomsa_1
+  seq: 272
+  stamp:
+    nsecs: 0
+    secs: 68
+temperature: 35.05360982359264
+variance: 0.03961585622353668
+---
+header:
+  frame_id: tomsa_1
+  seq: 274
+  stamp:
+    nsecs: 500000000
+    secs: 68
+temperature: 34.56223096478921
+variance: 0.09591688322109121
+---
+header:
+  frame_id: tomsa_1
+  seq: 276
+  stamp:
+    nsecs: 0
+    secs: 69
+temperature: 35.274118377139644
+variance: 0.1039622977122188
+---
+header:
+  frame_id: tomsa_1
+  seq: 278
+  stamp:
+    nsecs: 500000000
+    secs: 69
+temperature: 35.3477266109894
+variance: 0.10695386754779768
+---
+header:
+  frame_id: tomsa_1
+  seq: 280
+  stamp:
+    nsecs: 0
+    secs: 70
+temperature: 35.13639893329894
+variance: 0.01213167804110898
+---
+header:
+  frame_id: tomsa_1
+  seq: 282
+  stamp:
+    nsecs: 500000000
+    secs: 70
+temperature: 35.252599761923484
+variance: 0.04639340725662575
+---
+header:
+  frame_id: tomsa_1
+  seq: 284
+  stamp:
+    nsecs: 0
+    secs: 71
+temperature: 35.07924367577024
+variance: 0.02755032935718373
+---
+header:
+  frame_id: tomsa_1
+  seq: 286
+  stamp:
+    nsecs: 500000000
+    secs: 71
+temperature: 34.87853123449971
+variance: 0.02831664002617782
+---
+header:
+  frame_id: tomsa_1
+  seq: 288
+  stamp:
+    nsecs: 0
+    secs: 72
+temperature: 35.347497298325194
+variance: 0.04343356320208812
+---
+header:
+  frame_id: tomsa_1
+  seq: 290
+  stamp:
+    nsecs: 500000000
+    secs: 72
+temperature: 34.515573911028625
+variance: 0.08714300413604628
+---
+header:
+  frame_id: tomsa_1
+  seq: 292
+  stamp:
+    nsecs: 0
+    secs: 73
+temperature: 34.576244508715476
+variance: 0.1616169532338305
+---
+header:
+  frame_id: tomsa_1
+  seq: 294
+  stamp:
+    nsecs: 500000000
+    secs: 73
+temperature: 34.843956199263296
+variance: 0.10069514005809557
+---
+header:
+  frame_id: tomsa_1
+  seq: 296
+  stamp:
+    nsecs: 0
+    secs: 74
+temperature: 34.61570970284123
+variance: 0.008448619269011704
+---
+header:
+  frame_id: tomsa_1
+  seq: 298
+  stamp:
+    nsecs: 500000000
+    secs: 74
+temperature: 34.80632139322234
+variance: 0.013231972556823481
+---
+header:
+  frame_id: tomsa_1
+  seq: 300
+  stamp:
+    nsecs: 0
+    secs: 75
+temperature: 34.52264123516433
+variance: 0.10078899889346185
+---
+header:
+  frame_id: tomsa_1
+  seq: 302
+  stamp:
+    nsecs: 500000000
+    secs: 75
+temperature: 34.610469099340435
+variance: 0.09971782292765577
+---
+header:
+  frame_id: tomsa_1
+  seq: 304
+  stamp:
+    nsecs: 0
+    secs: 76
+temperature: 34.97840820842898
+variance: 0.03263934007220255
+---
+header:
+  frame_id: tomsa_1
+  seq: 306
+  stamp:
+    nsecs: 500000000
+    secs: 76
+temperature: 35.12729303132611
+variance: 0.045882926365791
+---
+header:
+  frame_id: tomsa_1
+  seq: 308
+  stamp:
+    nsecs: 0
+    secs: 77
+temperature: 34.92197532039536
+variance: 0.013329762706913429
+---
+header:
+  frame_id: tomsa_1
+  seq: 310
+  stamp:
+    nsecs: 500000000
+    secs: 77
+temperature: 34.68666180675039
+variance: 0.02102471447093856
+---
+header:
+  frame_id: tomsa_1
+  seq: 312
+  stamp:
+    nsecs: 0
+    secs: 78
+temperature: 34.512767902959396
+variance: 0.027921532463396275
+---
+header:
+  frame_id: tomsa_1
+  seq: 314
+  stamp:
+    nsecs: 500000000
+    secs: 78
+temperature: 35.288696083024035
+variance: 0.0686776354958496
+---
+header:
+  frame_id: tomsa_1
+  seq: 316
+  stamp:
+    nsecs: 0
+    secs: 79
+temperature: 35.27158569625519
+variance: 0.08055939256764039
+---
+header:
+  frame_id: tomsa_1
+  seq: 318
+  stamp:
+    nsecs: 500000000
+    secs: 79
+temperature: 34.92306944624715
+variance: 0.03189260719649419
+---
+header:
+  frame_id: tomsa_1
+  seq: 320
+  stamp:
+    nsecs: 0
+    secs: 80
+temperature: 34.78103404856654
+variance: 0.05095587004151173
+---
+header:
+  frame_id: tomsa_1
+  seq: 322
+  stamp:
+    nsecs: 500000000
+    secs: 80
+temperature: 34.61842072759031
+variance: 0.08902873006199782
+---
+header:
+  frame_id: tomsa_1
+  seq: 324
+  stamp:
+    nsecs: 0
+    secs: 81
+temperature: 34.72826861592589
+variance: 0.08079023791139091
+---
+header:
+  frame_id: tomsa_1
+  seq: 326
+  stamp:
+    nsecs: 500000000
+    secs: 81
+temperature: 34.936505063149355
+variance: 0.0443818261549498
+---
+header:
+  frame_id: tomsa_1
+  seq: 328
+  stamp:
+    nsecs: 0
+    secs: 82
+temperature: 34.692358884554416
+variance: 0.03214890402202202
+---
+header:
+  frame_id: tomsa_1
+  seq: 330
+  stamp:
+    nsecs: 500000000
+    secs: 82
+temperature: 35.13043768629882
+variance: 0.026758478251870426
+---
+header:
+  frame_id: tomsa_1
+  seq: 332
+  stamp:
+    nsecs: 0
+    secs: 83
+temperature: 34.677276785015984
+variance: 0.08666343390913055
+---
+header:
+  frame_id: tomsa_1
+  seq: 334
+  stamp:
+    nsecs: 500000000
+    secs: 83
+temperature: 34.57744708611109
+variance: 0.11886531661794106
+---
+header:
+  frame_id: tomsa_1
+  seq: 336
+  stamp:
+    nsecs: 0
+    secs: 84
+temperature: 35.26400573993433
+variance: 0.11284570961250598
+---
+header:
+  frame_id: tomsa_1
+  seq: 338
+  stamp:
+    nsecs: 500000000
+    secs: 84
+temperature: 34.6011155495699
+variance: 0.10483474382788387
+---
+header:
+  frame_id: tomsa_1
+  seq: 340
+  stamp:
+    nsecs: 0
+    secs: 85
+temperature: 35.27289434688344
+variance: 0.07793642576564662
+---
+header:
+  frame_id: tomsa_1
+  seq: 342
+  stamp:
+    nsecs: 500000000
+    secs: 85
+temperature: 34.941651170870614
+variance: 0.06990156351902678
+---
+header:
+  frame_id: tomsa_1
+  seq: 344
+  stamp:
+    nsecs: 0
+    secs: 86
+temperature: 34.79980840062641
+variance: 0.10246212823131995
+---
+header:
+  frame_id: tomsa_1
+  seq: 346
+  stamp:
+    nsecs: 500000000
+    secs: 86
+temperature: 35.32230765460413
+variance: 0.05913833346246824
+---
+header:
+  frame_id: tomsa_1
+  seq: 348
+  stamp:
+    nsecs: 0
+    secs: 87
+temperature: 34.92882574688403
+variance: 0.03109747218874844
+---
+header:
+  frame_id: tomsa_1
+  seq: 350
+  stamp:
+    nsecs: 500000000
+    secs: 87
+temperature: 34.5367763935185
+variance: 0.06985939184509643
+---
+header:
+  frame_id: tomsa_1
+  seq: 352
+  stamp:
+    nsecs: 0
+    secs: 88
+temperature: 35.14117743050566
+variance: 0.050689477764953625
+---
+header:
+  frame_id: tomsa_1
+  seq: 354
+  stamp:
+    nsecs: 500000000
+    secs: 88
+temperature: 34.76883099401122
+variance: 0.09700279154061715
+---
+header:
+  frame_id: tomsa_1
+  seq: 356
+  stamp:
+    nsecs: 0
+    secs: 89
+temperature: 35.46157782011741
+variance: 0.07275420381500772
+---
+header:
+  frame_id: tomsa_1
+  seq: 358
+  stamp:
+    nsecs: 500000000
+    secs: 89
+temperature: 34.65949101921086
+variance: 0.13354497802715293
+---
+header:
+  frame_id: tomsa_1
+  seq: 360
+  stamp:
+    nsecs: 0
+    secs: 90
+temperature: 34.93564644016584
+variance: 0.08192440217378742
+---
+header:
+  frame_id: tomsa_1
+  seq: 362
+  stamp:
+    nsecs: 500000000
+    secs: 90
+temperature: 34.80657643811097
+variance: 0.0430504466203913
+---
+header:
+  frame_id: tomsa_1
+  seq: 364
+  stamp:
+    nsecs: 0
+    secs: 91
+temperature: 34.75762979636223
+variance: 0.03728120101020941
+---
+header:
+  frame_id: tomsa_1
+  seq: 366
+  stamp:
+    nsecs: 500000000
+    secs: 91
+temperature: 35.219622298189705
+variance: 0.03391660787749283
+---
+header:
+  frame_id: tomsa_1
+  seq: 368
+  stamp:
+    nsecs: 0
+    secs: 92
+temperature: 34.54530468236183
+variance: 0.12151203489341325
+---
+header:
+  frame_id: tomsa_1
+  seq: 370
+  stamp:
+    nsecs: 500000000
+    secs: 92
+temperature: 34.976584729655116
+variance: 0.12582449986489
+---
+header:
+  frame_id: tomsa_1
+  seq: 372
+  stamp:
+    nsecs: 0
+    secs: 93
+temperature: 35.242978798385266
+variance: 0.0630970576840918
+---
+header:
+  frame_id: tomsa_1
+  seq: 374
+  stamp:
+    nsecs: 500000000
+    secs: 93
+temperature: 35.183334550101016
+variance: 0.047925426099774245
+---
+header:
+  frame_id: tomsa_1
+  seq: 376
+  stamp:
+    nsecs: 0
+    secs: 94
+temperature: 35.473550951313726
+variance: 0.08721126906948565
+---
+header:
+  frame_id: tomsa_1
+  seq: 378
+  stamp:
+    nsecs: 500000000
+    secs: 94
+temperature: 34.641184660118945
+variance: 0.1317977000462686
+---
+header:
+  frame_id: tomsa_1
+  seq: 380
+  stamp:
+    nsecs: 0
+    secs: 95
+temperature: 35.31744221961598
+variance: 0.09179879452371811
+---
+header:
+  frame_id: tomsa_1
+  seq: 382
+  stamp:
+    nsecs: 500000000
+    secs: 95
+temperature: 34.957569895490956
+variance: 0.09152483965751246
+---
+header:
+  frame_id: tomsa_1
+  seq: 384
+  stamp:
+    nsecs: 0
+    secs: 96
+temperature: 35.20239539734821
+variance: 0.057676441200540815
+---
+header:
+  frame_id: tomsa_1
+  seq: 386
+  stamp:
+    nsecs: 500000000
+    secs: 96
+temperature: 34.85989943841724
+variance: 0.039062036688692695
+---
+header:
+  frame_id: tomsa_1
+  seq: 388
+  stamp:
+    nsecs: 0
+    secs: 97
+temperature: 35.486686872801165
+variance: 0.13774781933645136
+---
+header:
+  frame_id: tomsa_1
+  seq: 390
+  stamp:
+    nsecs: 500000000
+    secs: 97
+temperature: 35.25487382629847
+variance: 0.11650323932991469
+---
+header:
+  frame_id: tomsa_1
+  seq: 392
+  stamp:
+    nsecs: 0
+    secs: 98
+temperature: 34.67922094033431
+variance: 0.07773002776828164
+---
+header:
+  frame_id: tomsa_1
+  seq: 394
+  stamp:
+    nsecs: 500000000
+    secs: 98
+temperature: 34.70258102035116
+variance: 0.05285089083058937
+---
+header:
+  frame_id: tomsa_1
+  seq: 396
+  stamp:
+    nsecs: 0
+    secs: 99
+temperature: 34.65531510384379
+variance: 0.02061474070522622
+---
+header:
+  frame_id: tomsa_1
+  seq: 398
+  stamp:
+    nsecs: 500000000
+    secs: 99
+temperature: 34.868323311004026
+variance: 0.010106146396716514
+---
+header:
+  frame_id: tomsa_1
+  seq: 400
+  stamp:
+    nsecs: 0
+    secs: 100
+temperature: 34.925135314626615
+variance: 0.009978473667903647
+---
+header:
+  frame_id: tomsa_1
+  seq: 402
+  stamp:
+    nsecs: 500000000
+    secs: 100
+temperature: 34.7350220236422
+variance: 0.003937664611098276
+---
+header:
+  frame_id: tomsa_1
+  seq: 404
+  stamp:
+    nsecs: 0
+    secs: 101
+temperature: 35.17804225877776
+variance: 0.04355145080201959
+---
+header:
+  frame_id: tomsa_1
+  seq: 406
+  stamp:
+    nsecs: 500000000
+    secs: 101
+temperature: 35.18107207391751
+variance: 0.06837518705936577
+---
+header:
+  frame_id: tomsa_1
+  seq: 408
+  stamp:
+    nsecs: 0
+    secs: 102
+temperature: 35.03870238887995
+variance: 0.046112162721294855
+---
+header:
+  frame_id: tomsa_1
+  seq: 410
+  stamp:
+    nsecs: 500000000
+    secs: 102
+temperature: 35.26742040193883
+variance: 0.05395943858285124
+---
+header:
+  frame_id: tomsa_1
+  seq: 412
+  stamp:
+    nsecs: 0
+    secs: 103
+temperature: 35.20976515761434
+variance: 0.05033373095128656
+---
+header:
+  frame_id: tomsa_1
+  seq: 414
+  stamp:
+    nsecs: 500000000
+    secs: 103
+temperature: 34.79201689518394
+variance: 0.04080015499058852
+---
+header:
+  frame_id: tomsa_1
+  seq: 416
+  stamp:
+    nsecs: 0
+    secs: 104
+temperature: 34.7040409564162
+variance: 0.053223361630422794
+---
+header:
+  frame_id: tomsa_1
+  seq: 418
+  stamp:
+    nsecs: 500000000
+    secs: 104
+temperature: 35.20559612218055
+variance: 0.08903603043178454
+---
+header:
+  frame_id: tomsa_1
+  seq: 420
+  stamp:
+    nsecs: 0
+    secs: 105
+temperature: 34.780244087074394
+variance: 0.09210054686370381
+---
+header:
+  frame_id: tomsa_1
+  seq: 422
+  stamp:
+    nsecs: 500000000
+    secs: 105
+temperature: 35.32463075122246
+variance: 0.06352666690947115
+---
+header:
+  frame_id: tomsa_1
+  seq: 424
+  stamp:
+    nsecs: 0
+    secs: 106
+temperature: 34.74415511947576
+variance: 0.06860487060564965
+---
+header:
+  frame_id: tomsa_1
+  seq: 426
+  stamp:
+    nsecs: 500000000
+    secs: 106
+temperature: 35.17378958804546
+variance: 0.06489020582908933
+---
+header:
+  frame_id: tomsa_1
+  seq: 428
+  stamp:
+    nsecs: 0
+    secs: 107
+temperature: 35.21137948250216
+variance: 0.11288945160893094
+---
+header:
+  frame_id: tomsa_1
+  seq: 430
+  stamp:
+    nsecs: 500000000
+    secs: 107
+temperature: 34.57843519003971
+variance: 0.08068534613103662
+---
+header:
+  frame_id: tomsa_1
+  seq: 432
+  stamp:
+    nsecs: 0
+    secs: 108
+temperature: 35.2461563173058
+variance: 0.06490144442091392
+---
+header:
+  frame_id: tomsa_1
+  seq: 434
+  stamp:
+    nsecs: 500000000
+    secs: 108
+temperature: 35.03490755861312
+variance: 0.04783305268329512
+---
+header:
+  frame_id: tomsa_1
+  seq: 436
+  stamp:
+    nsecs: 0
+    secs: 109
+temperature: 34.6813985542974
+variance: 0.039710742568065685
+---
+header:
+  frame_id: tomsa_1
+  seq: 438
+  stamp:
+    nsecs: 500000000
+    secs: 109
+temperature: 34.666589683686304
+variance: 0.018007346405592952
+---
+header:
+  frame_id: tomsa_1
+  seq: 440
+  stamp:
+    nsecs: 0
+    secs: 110
+temperature: 34.96465654516457
+variance: 0.016163968913055327
+---
+header:
+  frame_id: tomsa_1
+  seq: 442
+  stamp:
+    nsecs: 500000000
+    secs: 110
+temperature: 34.56456161800709
+variance: 0.07731591747628982
+---
+header:
+  frame_id: tomsa_1
+  seq: 444
+  stamp:
+    nsecs: 0
+    secs: 111
+temperature: 34.63496413430965
+variance: 0.08076616422736288
+---
+header:
+  frame_id: tomsa_1
+  seq: 446
+  stamp:
+    nsecs: 500000000
+    secs: 111
+temperature: 35.27377921606891
+variance: 0.06146063360146827
+---
+header:
+  frame_id: tomsa_1
+  seq: 448
+  stamp:
+    nsecs: 0
+    secs: 112
+temperature: 35.179851403085706
+variance: 0.07590275074235162
+---
+header:
+  frame_id: tomsa_1
+  seq: 450
+  stamp:
+    nsecs: 500000000
+    secs: 112
+temperature: 35.08949168284759
+variance: 0.055304775447728285
+---
+header:
+  frame_id: tomsa_1
+  seq: 452
+  stamp:
+    nsecs: 0
+    secs: 113
+temperature: 34.80004963061368
+variance: 0.027764353518955787
+---
+header:
+  frame_id: tomsa_1
+  seq: 454
+  stamp:
+    nsecs: 500000000
+    secs: 113
+temperature: 35.417416096152444
+variance: 0.05608220151217015
+---
+header:
+  frame_id: tomsa_1
+  seq: 456
+  stamp:
+    nsecs: 0
+    secs: 114
+temperature: 34.62090176192415
+variance: 0.079794126972574
+---
+header:
+  frame_id: tomsa_1
+  seq: 458
+  stamp:
+    nsecs: 500000000
+    secs: 114
+temperature: 34.90542855852849
+variance: 0.0764395777030685
+---
+header:
+  frame_id: tomsa_1
+  seq: 460
+  stamp:
+    nsecs: 0
+    secs: 115
+temperature: 35.072082939847725
+variance: 0.02085674430984481
+---
+header:
+  frame_id: tomsa_1
+  seq: 462
+  stamp:
+    nsecs: 500000000
+    secs: 115
+temperature: 35.29466286615456
+variance: 0.05492701100364502
+---
+header:
+  frame_id: tomsa_1
+  seq: 464
+  stamp:
+    nsecs: 0
+    secs: 116
+temperature: 34.872940836954584
+variance: 0.06945029488585348
+---
+header:
+  frame_id: tomsa_1
+  seq: 466
+  stamp:
+    nsecs: 500000000
+    secs: 116
+temperature: 34.65571640130907
+variance: 0.06084413057973115
+---
+header:
+  frame_id: tomsa_1
+  seq: 468
+  stamp:
+    nsecs: 0
+    secs: 117
+temperature: 34.739854977180784
+variance: 0.04896685843273906
+---
+header:
+  frame_id: tomsa_1
+  seq: 470
+  stamp:
+    nsecs: 500000000
+    secs: 117
+temperature: 35.423674228403684
+variance: 0.10425035357590265
+---
+header:
+  frame_id: tomsa_1
+  seq: 472
+  stamp:
+    nsecs: 0
+    secs: 118
+temperature: 34.50113579729234
+variance: 0.11156206475104827
+---
+header:
+  frame_id: tomsa_1
+  seq: 474
+  stamp:
+    nsecs: 500000000
+    secs: 118
+temperature: 34.625751861981186
+variance: 0.105293696820698
+---
+header:
+  frame_id: tomsa_1
+  seq: 476
+  stamp:
+    nsecs: 0
+    secs: 119
+temperature: 34.61660253159237
+variance: 0.006048490934093739
+---
+header:
+  frame_id: tomsa_1
+  seq: 478
+  stamp:
+    nsecs: 500000000
+    secs: 119
+temperature: 34.97573950740563
+variance: 0.018319393148169737
+---
+header:
+  frame_id: tomsa_1
+  seq: 480
+  stamp:
+    nsecs: 0
+    secs: 120
+temperature: 34.823937052316225
+variance: 0.018663567292315462
+---
+header:
+  frame_id: tomsa_1
+  seq: 482
+  stamp:
+    nsecs: 500000000
+    secs: 120
+temperature: 34.92430917116419
+variance: 0.0053433136423583225
+---
+header:
+  frame_id: tomsa_1
+  seq: 484
+  stamp:
+    nsecs: 0
+    secs: 121
+temperature: 34.62290424557735
+variance: 0.024204603618022007
+---
+header:
+  frame_id: tomsa_1
+  seq: 486
+  stamp:
+    nsecs: 500000000
+    secs: 121
+temperature: 35.128889627663284
+variance: 0.03998912122361735
+---
+header:
+  frame_id: tomsa_1
+  seq: 488
+  stamp:
+    nsecs: 0
+    secs: 122
+temperature: 34.50213549096428
+variance: 0.06779934986764323
+---
+header:
+  frame_id: tomsa_1
+  seq: 490
+  stamp:
+    nsecs: 500000000
+    secs: 122
+temperature: 35.474912590309344
+variance: 0.1366008933656031
+---
+header:
+  frame_id: tomsa_1
+  seq: 492
+  stamp:
+    nsecs: 0
+    secs: 123
+temperature: 34.783146978188476
+variance: 0.12363071065446471
+---
+header:
+  frame_id: tomsa_1
+  seq: 494
+  stamp:
+    nsecs: 500000000
+    secs: 123
+temperature: 34.76332828742581
+variance: 0.1399488882563345
+---
+header:
+  frame_id: tomsa_1
+  seq: 496
+  stamp:
+    nsecs: 0
+    secs: 124
+temperature: 34.53547445324607
+variance: 0.11973070776355514
+---
+header:
+  frame_id: tomsa_1
+  seq: 498
+  stamp:
+    nsecs: 500000000
+    secs: 124
+temperature: 35.38075104133316
+variance: 0.11949083428595966
+---
+header:
+  frame_id: tomsa_1
+  seq: 500
+  stamp:
+    nsecs: 0
+    secs: 125
+temperature: 35.319610108855585
+variance: 0.10331714882982772
+---
+header:
+  frame_id: tomsa_1
+  seq: 502
+  stamp:
+    nsecs: 500000000
+    secs: 125
+temperature: 34.8548206671528
+variance: 0.06072682648339992
+---
+header:
+  frame_id: tomsa_1
+  seq: 504
+  stamp:
+    nsecs: 0
+    secs: 126
+temperature: 35.35088323576489
+variance: 0.09931796994717168
+---
+header:
+  frame_id: tomsa_1
+  seq: 506
+  stamp:
+    nsecs: 500000000
+    secs: 126
+temperature: 35.36225105681225
+variance: 0.09974826833369142
+---
+header:
+  frame_id: tomsa_1
+  seq: 508
+  stamp:
+    nsecs: 0
+    secs: 127
+temperature: 35.36666742848144
+variance: 0.08403821783616813
+---
+header:
+  frame_id: tomsa_1
+  seq: 510
+  stamp:
+    nsecs: 500000000
+    secs: 127
+temperature: 34.61609826153038
+variance: 0.08684134059272516
+---
+header:
+  frame_id: tomsa_1
+  seq: 512
+  stamp:
+    nsecs: 0
+    secs: 128
+temperature: 34.704726362806525
+variance: 0.08944258557468121
+---
+header:
+  frame_id: tomsa_1
+  seq: 514
+  stamp:
+    nsecs: 500000000
+    secs: 128
+temperature: 35.173346048931556
+variance: 0.050620101321133884
+---
+header:
+  frame_id: tomsa_1
+  seq: 516
+  stamp:
+    nsecs: 0
+    secs: 129
+temperature: 34.95545977674062
+variance: 0.031070710426870894
+---
+header:
+  frame_id: tomsa_1
+  seq: 518
+  stamp:
+    nsecs: 500000000
+    secs: 129
+temperature: 34.92299375678874
+variance: 0.02185306804849689
+---
+header:
+  frame_id: tomsa_1
+  seq: 520
+  stamp:
+    nsecs: 0
+    secs: 130
+temperature: 35.142546092780414
+variance: 0.009757224249794718
+---
+header:
+  frame_id: tomsa_1
+  seq: 522
+  stamp:
+    nsecs: 500000000
+    secs: 130
+temperature: 34.94108948712689
+variance: 0.030287251169168566
+---
+header:
+  frame_id: tomsa_1
+  seq: 524
+  stamp:
+    nsecs: 0
+    secs: 131
+temperature: 35.11566864305998
+variance: 0.046768277744037176
+---
+header:
+  frame_id: tomsa_1
+  seq: 526
+  stamp:
+    nsecs: 500000000
+    secs: 131
+temperature: 35.07501687672712
+variance: 0.027609161327565357
+---
+header:
+  frame_id: tomsa_1
+  seq: 528
+  stamp:
+    nsecs: 0
+    secs: 132
+temperature: 34.17551428051396
+variance: 0.13480976397168215
+---
+header:
+  frame_id: tomsa_1
+  seq: 530
+  stamp:
+    nsecs: 500000000
+    secs: 132
+temperature: 34.74145505104957
+variance: 0.10374874750593441
+---
+header:
+  frame_id: tomsa_1
+  seq: 532
+  stamp:
+    nsecs: 0
+    secs: 133
+temperature: 33.69438987284131
+variance: 0.24194884495613586
+---
+header:
+  frame_id: tomsa_1
+  seq: 534
+  stamp:
+    nsecs: 500000000
+    secs: 133
+temperature: 33.67746827524547
+variance: 0.16685251856211816
+---
+header:
+  frame_id: tomsa_1
+  seq: 536
+  stamp:
+    nsecs: 0
+    secs: 134
+temperature: 32.85850733233219
+variance: 0.12098671852933937
+---
+header:
+  frame_id: tomsa_1
+  seq: 538
+  stamp:
+    nsecs: 500000000
+    secs: 134
+temperature: 32.55168829907418
+variance: 0.1438144683853037
+---
+header:
+  frame_id: tomsa_1
+  seq: 540
+  stamp:
+    nsecs: 0
+    secs: 135
+temperature: 32.192973371695345
+variance: 0.07166937480928685
+---
+header:
+  frame_id: tomsa_1
+  seq: 542
+  stamp:
+    nsecs: 500000000
+    secs: 135
+temperature: 32.34757963028872
+variance: 0.015357532690237216
+---
+header:
+  frame_id: tomsa_1
+  seq: 544
+  stamp:
+    nsecs: 0
+    secs: 136
+temperature: 31.652843975231498
+variance: 0.08006604185492947
+---
+header:
+  frame_id: tomsa_1
+  seq: 546
+  stamp:
+    nsecs: 500000000
+    secs: 136
+temperature: 31.496272968706133
+variance: 0.14539835024137576
+---
+header:
+  frame_id: tomsa_1
+  seq: 548
+  stamp:
+    nsecs: 0
+    secs: 137
+temperature: 31.670952870030955
+variance: 0.042389084262516356
+---
+header:
+  frame_id: tomsa_1
+  seq: 550
+  stamp:
+    nsecs: 500000000
+    secs: 137
+temperature: 30.534092068775113
+variance: 0.28537207464732794
+---
+header:
+  frame_id: tomsa_1
+  seq: 552
+  stamp:
+    nsecs: 0
+    secs: 138
+temperature: 30.771315574953434
+variance: 0.15649927209376308
+---
+header:
+  frame_id: tomsa_1
+  seq: 554
+  stamp:
+    nsecs: 500000000
+    secs: 138
+temperature: 30.436491484037592
+variance: 0.07769919262569627
+---
+header:
+  frame_id: tomsa_1
+  seq: 556
+  stamp:
+    nsecs: 0
+    secs: 139
+temperature: 30.31750549194386
+variance: 0.11728809131459532
+---
+header:
+  frame_id: tomsa_1
+  seq: 558
+  stamp:
+    nsecs: 500000000
+    secs: 139
+temperature: 30.070814509075745
+variance: 0.07977356070002625
+---
+header:
+  frame_id: tomsa_1
+  seq: 560
+  stamp:
+    nsecs: 0
+    secs: 140
+temperature: 29.754793165723278
+variance: 0.0706177225288743
+---
+header:
+  frame_id: tomsa_1
+  seq: 562
+  stamp:
+    nsecs: 500000000
+    secs: 140
+temperature: 28.924466612511313
+variance: 0.14084589977249135
+---
+header:
+  frame_id: tomsa_1
+  seq: 564
+  stamp:
+    nsecs: 0
+    secs: 141
+temperature: 28.568000071150568
+variance: 0.20958011341248067
+---
+header:
+  frame_id: tomsa_1
+  seq: 566
+  stamp:
+    nsecs: 500000000
+    secs: 141
+temperature: 28.122009961801094
+variance: 0.10063154918544348
+---
+header:
+  frame_id: tomsa_1
+  seq: 568
+  stamp:
+    nsecs: 0
+    secs: 142
+temperature: 27.864566457839825
+variance: 0.13429549130241578
+---
+header:
+  frame_id: tomsa_1
+  seq: 570
+  stamp:
+    nsecs: 500000000
+    secs: 142
+temperature: 27.990444543726134
+variance: 0.105861594769984
+---
+header:
+  frame_id: tomsa_1
+  seq: 572
+  stamp:
+    nsecs: 0
+    secs: 143
+temperature: 27.71044280478821
+variance: 0.08899247974871138
+---
+header:
+  frame_id: tomsa_1
+  seq: 574
+  stamp:
+    nsecs: 500000000
+    secs: 143
+temperature: 26.909051962888462
+variance: 0.19612558813258496
+---
+header:
+  frame_id: tomsa_1
+  seq: 576
+  stamp:
+    nsecs: 0
+    secs: 144
+temperature: 26.31576124677286
+variance: 0.2345304278822627
+---
+header:
+  frame_id: tomsa_1
+  seq: 578
+  stamp:
+    nsecs: 500000000
+    secs: 144
+temperature: 26.20026391611804
+variance: 0.05785838631534503
+---
+header:
+  frame_id: tomsa_1
+  seq: 580
+  stamp:
+    nsecs: 0
+    secs: 145
+temperature: 26.26172456187161
+variance: 0.018333557031209667
+---
+header:
+  frame_id: tomsa_1
+  seq: 582
+  stamp:
+    nsecs: 500000000
+    secs: 145
+temperature: 25.653821652068547
+variance: 0.09215250021336517
+---
+header:
+  frame_id: tomsa_1
+  seq: 584
+  stamp:
+    nsecs: 0
+    secs: 146
+temperature: 25.661356732341947
+variance: 0.12125627018049731
+---
+header:
+  frame_id: tomsa_1
+  seq: 586
+  stamp:
+    nsecs: 500000000
+    secs: 146
+temperature: 24.71137183151465
+variance: 0.12394012526357186
+---
+header:
+  frame_id: tomsa_1
+  seq: 588
+  stamp:
+    nsecs: 0
+    secs: 147
+temperature: 25.40979899395746
+variance: 0.17241456477437442
+---
+header:
+  frame_id: tomsa_1
+  seq: 590
+  stamp:
+    nsecs: 500000000
+    secs: 147
+temperature: 25.224335905045223
+variance: 0.11147874134826738
+---
+header:
+  frame_id: tomsa_1
+  seq: 592
+  stamp:
+    nsecs: 0
+    secs: 148
+temperature: 25.458065799277737
+variance: 0.07553241684724803
+---
+header:
+  frame_id: tomsa_1
+  seq: 594
+  stamp:
+    nsecs: 500000000
+    secs: 148
+temperature: 25.05821246637403
+variance: 0.020480901211185742
+---
+header:
+  frame_id: tomsa_1
+  seq: 596
+  stamp:
+    nsecs: 0
+    secs: 149
+temperature: 25.35315607753448
+variance: 0.053314798110354354
+---
+header:
+  frame_id: tomsa_1
+  seq: 598
+  stamp:
+    nsecs: 500000000
+    secs: 149
+temperature: 25.31224410895918
+variance: 0.0831064025523245
+---
+header:
+  frame_id: tomsa_1
+  seq: 600
+  stamp:
+    nsecs: 0
+    secs: 150
+temperature: 25.417642060133314
+variance: 0.09136945032383263
+---
